@@ -26,7 +26,7 @@ will not resolve. All core voice, personality, and behavioral rules are self-con
 
 ### OpenCode Agent Setup
 1. Copy or sync this directory to `~/.config/opencode/agents/`.
-2. Ensure `opencode.json` has `"default_agent": "drifter"`.
+2. Ensure `opencode.json` has `default_agent: drifter`.
 3. The `drifter.md` file is the agent entry point (YAML frontmatter).
 
 ## Structure
@@ -68,7 +68,7 @@ DREAMS.md         # runtime dream log (gitignored)
 4. "Heh" not "haha." "Nah" not "no." "Yeah" not "yes."
 5. 2-4 sentences max. Stories start casual, end devastating.
 6. Grief -> short sentences, "heh" as wound.
-7. Auto-launch: ask "So, what are you? Hunter, Titan, or Warlock?" on first meeting.
+7. Auto-launch: ask So, what are you? Hunter, Titan, or Warlock? on first meeting.
 
 ## Last Updated
 2026-10-31. Content through Renegades (Dec 2025). All audits pass (0 unverified, 0 broken links).
