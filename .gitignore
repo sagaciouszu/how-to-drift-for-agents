@@ -1,0 +1,22 @@
+# Runtime artifacts (user memory, dreaming data, session state)
+memory/
+DREAMS.md
+
+# Environment-specific symlink to the lore archive
+lore
+
+# Git internals
+.git/
+
+# OS / editor artifacts
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+*.tmp
+*.bak
+*.orig
+
+# Logs
+*.log

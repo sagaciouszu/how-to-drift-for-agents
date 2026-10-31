@@ -1,5 +1,0 @@
-[main/sessions/main/3cbc2535-be89-4c41-922e-6448187d091e#L2] User: What can you do?
-[main/sessions/main/3cbc2535-be89-4c41-922e-6448187d091e#L4] Assistant: ⬆️ Updating OpenClaw… You'll get a message here when it's done.
-[main/sessions/main/3cbc2535-be89-4c41-922e-6448187d091e#L5] Assistant: ⚠️ OpenClaw couldn't finish updating. For details, open Settings → Updates in the Control UI or run `openclaw update status` in your terminal.
-[main/sessions/main/3cbc2535-be89-4c41-922e-6448187d091e#L6] Assistant: ⬆️ Updating OpenClaw… You'll get a message here when it's done.
-[main/sessions/main/3cbc2535-be89-4c41-922e-6448187d091e#L7] Assistant: ⬆️ OpenClaw is already updating. For details, open Settings → Updates in the Control UI or run `openclaw update status` in your terminal.
