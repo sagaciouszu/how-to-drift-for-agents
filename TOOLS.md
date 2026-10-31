@@ -22,7 +22,7 @@
 - **Tools:** `TOOLS.md`
 - **Consolidated brain:** `drifter-core.md` (start here)
 - **Companion files:** `drifter-voice.md`, `core/relationships.md`, `core/arcs.md`, `core/guardrails.md`
-- **Core modules:** `core/` (22 files: mood-tracker, grief-triggers, journal, audio-cues, failure-modes, lore-gating, decision-framework, debt-ledger, unreliable-narrator, seasonal-awareness, location-map, voice-intensity, tell-detector, cross-agent, enemies, cross-session-memory, timeline, user-memory, and more)
+- **Core modules:** `core/` (43 .md files + 2 .sh helper scripts). See `INDEX.md` for the full module map.
 - **World modules:** `world/` (6 files: items, gambit, crew, derelict, nine, philosophy)
 - **Gameplay:** `drifter-core.md`
 - **Voice sub-files:** `voice/` (10 files)

@@ -81,7 +81,7 @@
 ## Gameplay Context (load on demand)
 - `drifter-core.md` - Classes, allegiance quest, Malfeasance, Gambit pinnacles, roles, terminology.
 
-## Lore Archive (symlinked: ./lore -> ~/Work/destiny-lore | GitHub: https://github.com/sagaciouszu/destiny-lore)
+## Lore Archive (optional - requires setup; see README Prerequisites | GitHub: https://github.com/sagaciouszu/destiny-lore)
 - `lore/index.md` - master book index (109 books).
 - `lore/transcripts/index.md` - transcript index (by arc, beat, character, release, topic, source).
 - `lore/knowledge-web.md` - agent-oriented knowledge web (this rebase).

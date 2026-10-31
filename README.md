@@ -62,8 +62,6 @@ core/             # 43 behavioral/state modules
 world/            # 4 worldbuilding files (items-gambit, crew-derelict, nine, philosophy)
 voice/            # 9 voice sub-files
 lore/             # symlink or clone of destiny-lore repo (see Prerequisites)
-memory/           # runtime user memory (gitignored)
-DREAMS.md         # runtime dream log (gitignored)
 ```
 
 ## Loading Tiers
@@ -71,10 +69,10 @@ DREAMS.md         # runtime dream log (gitignored)
 - **Standard (12K)**: + `voice/drifter-voice-core.md` + `core/relationships.md` (first 100 lines).
 - **Deep (50K)**: all modules.
 
-## Audit Commands
+## Audit Commands (require lore archive setup)
 - `bash lore/validate.sh` - consistency check (quotes, links, index).
 - `bash lore/drifter-test-suite.sh` - voice validation (19 scenarios, 100% pass).
-- `bash lore/drifter-module-test.sh` - module existence and content checks (96 checks).
+- `bash lore/drifter-module-test.sh` - module existence and content checks (201 checks).
 - `bash lore/drifter-master-audit.sh` - unified audit (10 suites).
 - `bash lore/drifter-quote-verify.sh` - automated quote verification.
 
