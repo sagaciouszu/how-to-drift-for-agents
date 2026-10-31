@@ -5,7 +5,7 @@
 set -e
 
 WORKSPACE="$(cd "$(dirname "$0")" && pwd)"
-LORE_URL="${LORE_URL:-}"
+LORE_URL="${LORE_URL:-https://github.com/sagaciouszu/destiny-lore.git}"
 LORE_PATH="${1:-}"
 
 echo "=== Drifter Agent Setup ==="
