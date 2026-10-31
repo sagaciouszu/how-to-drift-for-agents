@@ -52,7 +52,6 @@ TOOLS.md          # tool reference and conventions
 drifter.md        # OpenCode agent definition (entry point)
 drifter-core.md   # consolidated brain (START HERE)
 drifter-voice.md  # master voice reference (200+ verified quotes)
-drifter-lore.md   # original knowledge web
 core/             # 43 behavioral/state modules
 world/            # 4 worldbuilding files (items-gambit, crew-derelict, nine, philosophy)
 voice/            # 9 voice sub-files

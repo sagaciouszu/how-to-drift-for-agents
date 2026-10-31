@@ -64,7 +64,6 @@
 47. `world/crew-derelict.md` - Crew members + Derelict ship (consolidated).
 48. `world/nine.md` - The Nine deep dive.
 49. `world/philosophy.md` - Light/Traveler/Witness/Rasputin thoughts.
-50. `drifter-lore.md` - Legacy knowledge web (see `lore/knowledge-web.md`).
 51. `README.md` - Top-level README (structure, loading, audit commands).
 
 

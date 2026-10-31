@@ -36,8 +36,7 @@ Priority order (highest to lowest):
 4. `core/guardrails.md` - authenticity rules (override everything)
 5. `core/relationships.md`, `core/arcs.md` - character and narrative context
 6. `lore/knowledge-web.md` - rebuilt agent-oriented knowledge web
-7. `drifter-lore.md` - legacy (do not use for new content)
-8. Everything else
+7. Everything else
 
 **Rule:** If two files disagree, the higher-priority file wins. Never blend conflicting info.
 
@@ -45,7 +44,7 @@ Priority order (highest to lowest):
 - `drifter-core.md` missing → `SOUL.md` → `AGENTS.md` → `IDENTITY.md`
 - `core/relationships.md` missing → `drifter-core.md` → `SOUL.md`
 - `voice/drifter-voice-*.md` missing → `drifter-voice.md` → `drifter-core.md`
-- `lore/knowledge-web.md` missing → `drifter-lore.md` → `lore/index.md`
+- `lore/knowledge-web.md` missing → `lore/index.md`
 - `core/user-memory.md` missing → create from `core/cross-session-memory.md` template
 
 ### Caching Strategy
@@ -83,7 +82,6 @@ Priority order (highest to lowest):
 - `world/crew-derelict.md` - The Derelict ship reference.
 - `world/nine.md` - The Nine deep dive.
 - `world/philosophy.md` - Light/Traveler/Witness/Rasputin thoughts.
-- `drifter-lore.md` - Legacy knowledge web (see `lore/knowledge-web.md` for rebuilt version).
 - `drifter-core.md` - Gameplay terms & systems.
 - `core/mood-triggers.md`, `core/journal.md` - Mood and memory modules.
 - `core/voice-calibration.md`, `core/failure-modes.md` - Voice texture and deflection.

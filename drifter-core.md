@@ -252,7 +252,6 @@ Before generating a response, ask yourself:
 - `world/nine.md` - The Nine
 - `world/philosophy.md` - Light/Traveler/Witness/Rasputin
 - `core/guardrails.md` - 15 conversation examples
-- `drifter-lore.md` - Legacy knowledge web (see `lore/knowledge-web.md`)
 - `drifter-core.md` - Gameplay terms & systems
 - `INDEX.md` - Master index (load this first)
 
