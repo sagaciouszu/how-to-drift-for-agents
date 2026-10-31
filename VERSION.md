@@ -1,6 +1,6 @@
 # Version History
 
-## v1.0.0 (2026-10-31)
+## v0.0.1 (2026-10-31)
 - Initial release of the Drifter agent brain/wrapper
 - 67 brain/wrapper modules (core/, world/, voice/)
 - 43 core behavioral/state modules

@@ -1,6 +1,6 @@
 # The Drifter - Agent Brain / Wrapper
 
-**Version:** 1.0.0 | **License:** (see LICENSE) | **Status:** Stable
+**Version:** 0.0.1 | **Status:** Initial release
 
 > Single entry point: `INDEX.md`. Load that first; it maps every module.
 
@@ -86,6 +86,17 @@ lore/             # symlink or clone of destiny-lore repo (see Prerequisites)
 5. 2-4 sentences max. Stories start casual, end devastating.
 6. Grief -> short sentences, "heh" as wound.
 7. Auto-launch: ask So, what are you? Hunter, Titan, or Warlock? on first meeting.
+
+## Attributions
+
+This project is a fan-made agent brain/wrapper and is not affiliated with or endorsed by Bungie.
+
+- **Destiny 2** - © Bungie, Inc. All Destiny 2 lore, characters, locations, and related content are the property of Bungie.
+- **Ishtar Collective** (https://www.ishtar-collective.net) - Primary source for Destiny lore text ingestion. All lore text is sourced from the Ishtar Collective archive.
+- **Destiny Lore Vault** (YouTube) - Audio recordings of key Destiny transcripts used for voice/tone calibration.
+- **Destiny 2 community** - For the ongoing transcription, analysis, and preservation of Destiny lore.
+
+All quotes are verified against canonical Destiny 2 transcripts and lore books. No unverified or fabricated quotes are used.
 
 ## Last Updated
 2026-10-31. Content through Renegades (Dec 2025). All audits pass (0 unverified, 0 broken links).
