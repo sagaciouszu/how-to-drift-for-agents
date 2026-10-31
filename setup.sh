@@ -30,7 +30,7 @@ else
         echo "The lore archive is required for full functionality."
         echo ""
         echo "Option 1: Clone from a remote repository:"
-        echo "  LORE_URL=https://github.com/<user>/destiny-lore.git ./setup.sh"
+        echo "  LORE_URL=https://github.com/sagaciouszu/destiny-lore.git ./setup.sh"
         echo ""
         echo "Option 2: Symlink to a local copy:"
         echo "  ./setup.sh /path/to/destiny-lore"

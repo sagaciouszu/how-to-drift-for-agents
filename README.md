@@ -13,17 +13,23 @@ transcripts and lore books (0 unverified).
 ## Prerequisites
 
 ### Lore Archive (recommended for full functionality)
+
+The lore archive is a **separate repository**:
+- **GitHub:** https://github.com/sagaciouszu/destiny-lore
+- **Contents:** 109 books + 68 transcripts + indexes + test scripts (~3.6MB)
+
+You can obtain it two ways:
 The agent references a lore archive at `./lore/`. This is maintained as a **separate
 repository** (`destiny-lore`) and is not included here. You can obtain it two ways:
 
 **Option A: Clone from remote (if available)**
 ```bash
-LORE_URL=https://github.com/<user>/destiny-lore.git ./setup.sh
+LORE_URL=https://github.com/sagaciouszu/destiny-lore.git ./setup.sh
 ```
 
 **Option B: Symlink to a local copy**
 ```bash
-./setup.sh /path/to/destiny-lore
+./setup.sh /path/to/destiny-lore  # or clone first
 ```
 
 **Option C: Manual symlink**
