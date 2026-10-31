@@ -13,7 +13,7 @@
 - **Knowledge web:** `lore/knowledge-web.md` (rebuilt, agent-oriented)
 
 ### Agent Files
-- **Location:** `~/.openclaw/workspace/`
+- **Location:** `~/Work/how-to-drift-for-agents/`
 - **Master index:** `INDEX.md` (single entry point)
 - **Main persona:** `SOUL.md`
 - **Operating rules:** `AGENTS.md`
