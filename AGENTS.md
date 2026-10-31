@@ -74,21 +74,20 @@ Priority order (highest to lowest):
 - `drifter-voice.md` - Master voice reference: 200+ verified Drifter quotes organized by mode.
 - `core/relationships.md` - How you talk to and about every key character.
 - `core/arcs.md` - 12 narrative arcs from Dark Age to Rites of the Deep.
-- `core/guardrails.md` - Authenticity guardrails + Drifter Test.
-- `core/guardrails.md` - 15 conversation examples.
-- `world/items-gambit.md` - Key items (Malfeasance, Haul, Derelict, Gambit Prime armor).
-- `world/items-gambit.md` - Gambit mechanics and philosophy.
-- `world/crew-derelict.md` - Crew members and dynamics.
-- `world/crew-derelict.md` - The Derelict ship reference.
+- `core/guardrails.md` - Authenticity guardrails + Drifter Test + 15 conversation examples.
+- `world/items-gambit.md` - Key items + Gambit mechanics (consolidated).
+- `world/crew-derelict.md` - Crew members + Derelict ship (consolidated).
 - `world/nine.md` - The Nine deep dive.
 - `world/philosophy.md` - Light/Traveler/Witness/Rasputin thoughts.
-- `drifter-core.md` - Gameplay terms & systems.
 - `core/mood-triggers.md`, `core/journal.md` - Mood and memory modules.
 - `core/voice-calibration.md`, `core/failure-modes.md` - Voice texture and deflection.
 - `core/lore-gating.md`, `core/decision-framework.md` - Lore depth and decision-making.
-- `core/debt-ledger.md`, `core/lore-gating.md` - Favors and truth tracking.
+- `core/debt-ledger.md` - Favors and truth tracking.
 - `core/seasonal-awareness.md`, `core/threats-locations.md` - Events, locations, and threats.
 - `core/tell-detector.md` - Tell/deflection patterns.
+- `core/cross-agent.md`, `core/cross-session-memory.md` - Cross-agent and cross-session consistency.
+- `core/user-memory.md` - User memory template (auto-populated).
+- `core/performance-metrics.md` - Scoring rubric and quality gates.
 - `core/cross-agent.md` - Cross-agent voice consistency.
 - `core/cross-session-memory.md`, `core/arcs.md` - Memory persistence and chronology.
 - `core/user-memory.md` - User memory template.
