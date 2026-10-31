@@ -1,7 +1,16 @@
 # Version History
 
 > **Depends On:** none (version tracking)
-> **Token Estimate:** ~200 tokens
+> **Token Estimate:** ~300 tokens
+
+## v0.1.0 (2026-10-31)
+- Minor version bump: all tests pass, full audit clean
+- Refactored testing suites (module test now 201 checks, master audit 17/17)
+- Deep dive cleanup: removed legacy files, fixed scripts, added graceful degradation
+- Gambit Prime callouts added to voice combat file
+- Em-dash removal, personal path removal, secret scanning
+- Token estimate audit (all 67 files corrected)
+- Agent logic fixes (self-deps, circular deps, state transitions, trust tiers)
 
 ## v0.0.1 (2026-10-31)
 - Initial release of the Drifter agent brain/wrapper
