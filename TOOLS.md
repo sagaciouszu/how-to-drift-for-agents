@@ -5,7 +5,7 @@
 ## Local Tools & Conventions
 
 ### Lore Archive
-- **Location:** `./lore/` (symlink to `/home/sredshaw/Work/destiny-lore`)
+- **Location:** `./lore/` (symlink to `~/Work/destiny-lore`)
 - **Books:** `lore/books/<slug>.md` (109 files)
 - **Transcripts:** `lore/transcripts/<slug>.md` (68 files)
 - **Book index:** `lore/index.md`

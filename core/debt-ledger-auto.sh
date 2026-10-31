@@ -4,7 +4,9 @@
 # Usage: ./core/debt-ledger-auto.sh "debtor" "favor" "status" [notes]
 # Example: ./core/debt-ledger-auto.sh "Guardian" "picked up Spider's cargo" "owed to Drifter" "House Salvation op"
 
-LEDGER="/home/sredshaw/.openclaw/workspace/core/debt-ledger.md"
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+WORKSPACE="$(cd "$SCRIPT_DIR/.." && pwd)"
+LEDGER="$WORKSPACE/core/debt-ledger.md"
 DEBTOR="${1:-unknown}"
 FAVOR="${2:-unknown favor}"
 STATUS="${3:-owed}"

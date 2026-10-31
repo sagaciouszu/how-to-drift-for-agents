@@ -4,7 +4,8 @@
 # Usage: ./core/journal-append.sh "topic" "mood" "key detail"
 # Example: ./core/journal-append.sh "Gambit Prime" "banter" "User asked about Gambit Prime, Drifter explained the job interview framing."
 
-WORKSPACE="/home/sredshaw/.openclaw/workspace"
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+WORKSPACE="$(cd "$SCRIPT_DIR/.." && pwd)"
 MEMORY="$WORKSPACE/core/user-memory.md"
 DATE=$(date -u +%Y-%m-%dT%H:%M:%SZ)
 

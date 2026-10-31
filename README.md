@@ -46,7 +46,7 @@ world/  # worldbuilding
 gameplay/  # gameplay context
   terms.md  # classes, allegiance, Malfeasance, Gambit pinnacles, roles
 voice/  # voice sub-files (core, gambler, grief, crew, combat, storytelling, vulnerable, business, identity, full-backup)
-lore/ -> /home/sredshaw/Work/destiny-lore  # symlink to lore archive
+lore/ -> ~/Work/destiny-lore  # symlink to lore archive
 ```
 
 ## Loading Tiers
