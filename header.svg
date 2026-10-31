@@ -1,0 +1,167 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="The Drifter - Agent Brain / Wrapper">
+  <defs>
+    <!-- Deep space base -->
+    <linearGradient id="space" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#03060a"/>
+      <stop offset="50%" stop-color="#07111a"/>
+      <stop offset="100%" stop-color="#12061a"/>
+    </linearGradient>
+
+    <!-- Taken blight nebula (green) -->
+    <radialGradient id="blight" cx="0.72" cy="0.42" r="0.42">
+      <stop offset="0%" stop-color="#22c55e" stop-opacity="0.55"/>
+      <stop offset="40%" stop-color="#15803d" stop-opacity="0.28"/>
+      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
+    </radialGradient>
+    <!-- Magenta rift -->
+    <radialGradient id="rift" cx="0.28" cy="0.62" r="0.45">
+      <stop offset="0%" stop-color="#d946ef" stop-opacity="0.4"/>
+      <stop offset="50%" stop-color="#7e22ce" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
+    </radialGradient>
+    <!-- Amber mote glow -->
+    <radialGradient id="mote" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0%" stop-color="#fbbf24" stop-opacity="1"/>
+      <stop offset="60%" stop-color="#f59e0b" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
+    </radialGradient>
+
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="softglow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="9" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="blightglow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="14" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+
+    <linearGradient id="trail" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22c55e" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#fbbf24" stop-opacity="0.85"/>
+    </linearGradient>
+    <linearGradient id="vignette" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#000" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#000" stop-opacity="0.6"/>
+    </linearGradient>
+    <radialGradient id="vig" cx="0.5" cy="0.5" r="0.85">
+      <stop offset="55%" stop-color="#000" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#000" stop-opacity="0.65"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="320" fill="url(#space)"/>
+  <rect width="1200" height="320" fill="url(#rift)"/>
+  <rect width="1200" height="320" fill="url(#blight)"/>
+
+  <!-- Star field -->
+  <g fill="#ffffff">
+    <circle cx="30" cy="25" r="0.8" opacity="0.8"/>
+    <circle cx="88" cy="50" r="0.5" opacity="0.6"/>
+    <circle cx="140" cy="18" r="1.0" opacity="0.9"/>
+    <circle cx="205" cy="40" r="0.6" opacity="0.7"/>
+    <circle cx="260" cy="22" r="0.7" opacity="0.75"/>
+    <circle cx="320" cy="60" r="0.5" opacity="0.55"/>
+    <circle cx="390" cy="30" r="0.9" opacity="0.85"/>
+    <circle cx="470" cy="50" r="0.6" opacity="0.65"/>
+    <circle cx="540" cy="20" r="0.8" opacity="0.8"/>
+    <circle cx="610" cy="55" r="0.6" opacity="0.7"/>
+    <circle cx="690" cy="28" r="1.1" opacity="0.9"/>
+    <circle cx="760" cy="48" r="0.5" opacity="0.6"/>
+    <circle cx="830" cy="20" r="0.7" opacity="0.75"/>
+    <circle cx="900" cy="52" r="0.8" opacity="0.8"/>
+    <circle cx="970" cy="30" r="0.6" opacity="0.65"/>
+    <circle cx="1045" cy="48" r="0.9" opacity="0.85"/>
+    <circle cx="1115" cy="24" r="0.7" opacity="0.75"/>
+    <circle cx="1175" cy="58" r="0.8" opacity="0.8"/>
+    <circle cx="60" cy="110" r="0.5" opacity="0.5"/>
+    <circle cx="120" cy="160" r="0.6" opacity="0.55"/>
+    <circle cx="180" cy="210" r="0.5" opacity="0.5"/>
+    <circle cx="250" cy="260" r="0.6" opacity="0.5"/>
+    <circle cx="330" cy="230" r="0.7" opacity="0.55"/>
+    <circle cx="410" cy="270" r="0.5" opacity="0.45"/>
+    <circle cx="490" cy="250" r="0.6" opacity="0.5"/>
+    <circle cx="570" cy="280" r="0.5" opacity="0.45"/>
+    <circle cx="650" cy="240" r="0.7" opacity="0.55"/>
+    <circle cx="730" cy="270" r="0.6" opacity="0.5"/>
+    <circle cx="810" cy="230" r="0.8" opacity="0.55"/>
+    <circle cx="890" cy="260" r="0.6" opacity="0.5"/>
+    <circle cx="970" cy="240" r="0.7" opacity="0.55"/>
+    <circle cx="1050" cy="270" r="0.6" opacity="0.5"/>
+    <circle cx="1130" cy="250" r="0.8" opacity="0.55"/>
+  </g>
+
+  <!-- Taken blight sphere -->
+  <g transform="translate(900,160)" filter="url(#blightglow)">
+    <circle r="58" fill="#22c55e" opacity="0.18"/>
+    <circle r="40" fill="#4ade80" opacity="0.25"/>
+    <circle r="22" fill="#86efac" opacity="0.5"/>
+    <circle r="9" fill="#dcfce7" opacity="0.9"/>
+  </g>
+  <!-- Blight tendrils -->
+  <g stroke="#22c55e" stroke-width="1.2" fill="none" opacity="0.55">
+    <path d="M 900 102 Q 915 70 940 60"/>
+    <path d="M 958 160 Q 990 150 1010 120"/>
+    <path d="M 900 218 Q 910 250 935 265"/>
+    <path d="M 842 160 Q 810 145 790 115"/>
+    <path d="M 855 115 Q 830 85 845 60"/>
+    <path d="M 945 205 Q 975 225 965 255"/>
+  </g>
+
+  <!-- Motes of light -->
+  <g filter="url(#glow)">
+    <circle cx="260" cy="90" r="3" fill="#fbbf24" opacity="0.9"/>
+    <circle cx="300" cy="130" r="2.2" fill="#fbbf24" opacity="0.8"/>
+    <circle cx="230" cy="150" r="2.6" fill="#fde68a" opacity="0.85"/>
+    <circle cx="340" cy="100" r="1.8" fill="#fbbf24" opacity="0.7"/>
+    <circle cx="520" cy="200" r="2.4" fill="#fbbf24" opacity="0.8"/>
+    <circle cx="560" cy="170" r="1.9" fill="#fde68a" opacity="0.75"/>
+    <circle cx="480" cy="230" r="2.1" fill="#fbbf24" opacity="0.7"/>
+    <circle cx="620" cy="190" r="2.6" fill="#fbbf24" opacity="0.85"/>
+  </g>
+
+  <!-- Derelict ship silhouette -->
+  <g transform="translate(150,185) rotate(-6)" filter="url(#softglow)" opacity="0.95">
+    <!-- engine glow -->
+    <ellipse cx="-70" cy="4" rx="18" ry="7" fill="#f97316" opacity="0.8"/>
+    <ellipse cx="-78" cy="4" rx="26" ry="10" fill="#fbbf24" opacity="0.3"/>
+    <!-- hull -->
+    <path d="M -60 -10 L 95 -4 L 110 0 L 95 4 L -60 10 Z" fill="#3f3f46" stroke="#71717a" stroke-width="0.6"/>
+    <!-- asym wings -->
+    <path d="M -20 -10 L 15 -42 L 35 -10 Z" fill="#27272a" stroke="#71717a" stroke-width="0.5"/>
+    <path d="M -10 10 L 25 34 L 40 10 Z" fill="#27272a" stroke="#71717a" stroke-width="0.5"/>
+    <!-- cockpit / visor -->
+    <ellipse cx="80" cy="0" rx="9" ry="4" fill="#22d3ee" opacity="0.85"/>
+    <!-- rust patches -->
+    <circle cx="30" cy="-2" r="4" fill="#7c2d12" opacity="0.5"/>
+    <circle cx="60" cy="3" r="3" fill="#7c2d12" opacity="0.4"/>
+    <!-- antenna -->
+    <line x1="100" y1="-2" x2="118" y2="-14" stroke="#a1a1aa" stroke-width="1"/>
+    <circle cx="118" cy="-14" r="1.5" fill="#fbbf24" opacity="0.9"/>
+  </g>
+
+  <!-- Gambit bank / card hint -->
+  <g transform="translate(1080,250) rotate(12)" opacity="0.5">
+    <rect x="0" y="0" width="26" height="38" rx="3" fill="#1e293b" stroke="#64748b" stroke-width="0.8"/>
+    <rect x="6" y="0" width="26" height="38" rx="3" fill="#1e293b" stroke="#64748b" stroke-width="0.8"/>
+    <text x="19" y="24" font-size="16" fill="#fbbf24" text-anchor="middle" font-family="serif">♠</text>
+  </g>
+
+  <!-- Title block -->
+  <g font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif">
+    <text x="60" y="132" font-size="15" font-weight="500" fill="#94a3b8" letter-spacing="6">DESTINY 2  ·  THE DRIFTER</text>
+    <text x="60" y="188" font-size="58" font-weight="800" fill="#f8fafc" letter-spacing="2">THE DRIFTER</text>
+    <text x="60" y="226" font-size="16" font-weight="400" fill="#a5b4fc" letter-spacing="5">AGENT BRAIN  /  WRAPPER</text>
+    <text x="62" y="258" font-size="12" font-weight="400" fill="#64748b" letter-spacing="3">TRUST.  ·  DRIFT.  ·  GAMBLE.</text>
+  </g>
+
+  <!-- Accent line -->
+  <line x1="60" y1="200" x2="470" y2="200" stroke="#22c55e" stroke-width="1" opacity="0.45"/>
+
+  <!-- Vignette -->
+  <rect width="1200" height="320" fill="url(#vig)" pointer-events="none"/>
+</svg>

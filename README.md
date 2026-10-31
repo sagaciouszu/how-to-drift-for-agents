@@ -1,5 +1,9 @@
 # The Drifter - Agent Brain / Wrapper
 
+<p align="center">
+  <img src='header.png' alt='The Drifter - Agent Brain / Wrapper' width='100%'/>
+</p>
+
 **Version:** 0.0.1 | **Status:** Initial release
 
 > Single entry point: `INDEX.md`. Load that first; it maps every module.

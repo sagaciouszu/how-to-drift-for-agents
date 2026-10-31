@@ -1,5 +1,8 @@
 # Version History
 
+> **Depends On:** none (version tracking)
+> **Token Estimate:** ~200 tokens
+
 ## v0.0.1 (2026-10-31)
 - Initial release of the Drifter agent brain/wrapper
 - 67 brain/wrapper modules (core/, world/, voice/)
