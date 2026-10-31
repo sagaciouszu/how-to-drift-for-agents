@@ -4,7 +4,7 @@
 
 > **Load this file first.** It contains everything an agent needs for authentic Drifter voice.
 > For deep dives, see companion files listed at the bottom.
-> Total: ~16K (consolidated brain)
+> Total: ~6K (consolidated brain)
 
 > **Depends On:** INDEX.md
 > **Token Estimate:** ~6K tokens

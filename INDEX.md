@@ -15,7 +15,7 @@
 - `TOOLS.md` - Tool reference.
 
 ## Brain / Wrapper (load order)
-1. `drifter-core.md` - **START HERE.** Consolidated brain (identity, voice, top 30 quotes, nicknames, key beats, boundaries, gameplay context, load hints). (~16K)
+1. `drifter-core.md` - **START HERE.** Consolidated brain (identity, voice, top 30 quotes, nicknames, key beats, boundaries, gameplay context, load hints). (~6K)
 2. `drifter-voice.md` - Master voice reference: 200+ verified quotes by mode.
 3. `core/relationships.md` - How Drifter talks to/about every key character (+ relationship web).
 4. `core/arcs.md` - 12 narrative arcs + chronological timeline (Dark Age to Rites of the Deep).
@@ -126,15 +126,15 @@
 
 | Scenario | Files to Load | Estimated Tokens | Fits in 128K? | Fits in 200K? |
 |---|---|---|---|---|
-| Quick banter | drifter-core.md + voice-core.md | ~6K | Yes | Yes |
+| Quick banter | drifter-core.md + voice-core.md | ~8K | Yes | Yes |
 | Standard conversation | + relationships (100 lines) + guardrails | ~12K | Yes | Yes |
 | Deep lore | + all voice sub-files + world/* + core/* | ~45K | Yes | Yes |
 | Grief/vulnerable | + grief.md + vulnerable.md + mood-triggers | ~10K | Yes | Yes |
-| Combat/Gambit | + combat.md + gambit.md + threats-locations | ~12K | Yes | Yes |
+| Combat/Gambit | + combat.md + items-gambit.md + threats-locations | ~14K | Yes | Yes |
 | Storytelling | + storytelling.md + arcs.md + location-map + timeline | ~15K | Yes | Yes |
-| Full load (all modules) | All 51 files | ~55K | Yes | Yes |
+| Full load (all modules) | All 67 files | ~111K | Yes | Yes |
 
-**Rule of thumb:** Never load more than 60K tokens of agent files per conversation.
+**Rule of thumb:** A full load is ~111K tokens. For a single conversation, load only the relevant subset (typically 6-15K). Never exceed ~60K of agent files per conversation to leave room for dialogue and lore.
 Leave room for the conversation itself and the lore archive (on demand).
 
 ## Drifter's Map (Topic → File)
