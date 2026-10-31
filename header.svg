@@ -1,167 +1,113 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="The Drifter - Agent Brain / Wrapper">
   <defs>
-    <!-- Deep space base -->
     <linearGradient id="space" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#03060a"/>
       <stop offset="50%" stop-color="#07111a"/>
       <stop offset="100%" stop-color="#12061a"/>
     </linearGradient>
-
-    <!-- Taken blight nebula (green) -->
-    <radialGradient id="blight" cx="0.72" cy="0.42" r="0.42">
-      <stop offset="0%" stop-color="#22c55e" stop-opacity="0.55"/>
-      <stop offset="40%" stop-color="#15803d" stop-opacity="0.28"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
-    <!-- Magenta rift -->
     <radialGradient id="rift" cx="0.28" cy="0.62" r="0.45">
-      <stop offset="0%" stop-color="#d946ef" stop-opacity="0.4"/>
-      <stop offset="50%" stop-color="#7e22ce" stop-opacity="0.18"/>
+      <stop offset="0%" stop-color="#d946ef" stop-opacity="0.35"/>
+      <stop offset="50%" stop-color="#7e22ce" stop-opacity="0.15"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
-    <!-- Amber mote glow -->
-    <radialGradient id="mote" cx="0.5" cy="0.5" r="0.5">
-      <stop offset="0%" stop-color="#fbbf24" stop-opacity="1"/>
-      <stop offset="60%" stop-color="#f59e0b" stop-opacity="0.4"/>
+    <radialGradient id="blight" cx="0.72" cy="0.42" r="0.42">
+      <stop offset="0%" stop-color="#22c55e" stop-opacity="0.3"/>
+      <stop offset="40%" stop-color="#15803d" stop-opacity="0.15"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
-
     <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
       <feGaussianBlur stdDeviation="3" result="blur"/>
       <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
-    <filter id="softglow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="9" result="blur"/>
+    <filter id="textblur" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="4"/>
+    </filter>
+    <filter id="logoglow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
       <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
-    <filter id="blightglow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="14" result="blur"/>
-      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-
-    <linearGradient id="trail" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#22c55e" stop-opacity="0"/>
-      <stop offset="100%" stop-color="#fbbf24" stop-opacity="0.85"/>
-    </linearGradient>
-    <linearGradient id="vignette" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#000" stop-opacity="0.15"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0.6"/>
-    </linearGradient>
     <radialGradient id="vig" cx="0.5" cy="0.5" r="0.85">
       <stop offset="55%" stop-color="#000" stop-opacity="0"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0.65"/>
     </radialGradient>
   </defs>
 
-  <!-- Background -->
   <rect width="1200" height="320" fill="url(#space)"/>
   <rect width="1200" height="320" fill="url(#rift)"/>
   <rect width="1200" height="320" fill="url(#blight)"/>
 
-  <!-- Star field -->
-  <g fill="#ffffff">
-    <circle cx="30" cy="25" r="0.8" opacity="0.8"/>
-    <circle cx="88" cy="50" r="0.5" opacity="0.6"/>
-    <circle cx="140" cy="18" r="1.0" opacity="0.9"/>
-    <circle cx="205" cy="40" r="0.6" opacity="0.7"/>
-    <circle cx="260" cy="22" r="0.7" opacity="0.75"/>
-    <circle cx="320" cy="60" r="0.5" opacity="0.55"/>
-    <circle cx="390" cy="30" r="0.9" opacity="0.85"/>
-    <circle cx="470" cy="50" r="0.6" opacity="0.65"/>
-    <circle cx="540" cy="20" r="0.8" opacity="0.8"/>
-    <circle cx="610" cy="55" r="0.6" opacity="0.7"/>
-    <circle cx="690" cy="28" r="1.1" opacity="0.9"/>
-    <circle cx="760" cy="48" r="0.5" opacity="0.6"/>
-    <circle cx="830" cy="20" r="0.7" opacity="0.75"/>
-    <circle cx="900" cy="52" r="0.8" opacity="0.8"/>
-    <circle cx="970" cy="30" r="0.6" opacity="0.65"/>
-    <circle cx="1045" cy="48" r="0.9" opacity="0.85"/>
-    <circle cx="1115" cy="24" r="0.7" opacity="0.75"/>
-    <circle cx="1175" cy="58" r="0.8" opacity="0.8"/>
-    <circle cx="60" cy="110" r="0.5" opacity="0.5"/>
-    <circle cx="120" cy="160" r="0.6" opacity="0.55"/>
-    <circle cx="180" cy="210" r="0.5" opacity="0.5"/>
-    <circle cx="250" cy="260" r="0.6" opacity="0.5"/>
-    <circle cx="330" cy="230" r="0.7" opacity="0.55"/>
-    <circle cx="410" cy="270" r="0.5" opacity="0.45"/>
-    <circle cx="490" cy="250" r="0.6" opacity="0.5"/>
-    <circle cx="570" cy="280" r="0.5" opacity="0.45"/>
-    <circle cx="650" cy="240" r="0.7" opacity="0.55"/>
-    <circle cx="730" cy="270" r="0.6" opacity="0.5"/>
-    <circle cx="810" cy="230" r="0.8" opacity="0.55"/>
-    <circle cx="890" cy="260" r="0.6" opacity="0.5"/>
-    <circle cx="970" cy="240" r="0.7" opacity="0.55"/>
-    <circle cx="1050" cy="270" r="0.6" opacity="0.5"/>
-    <circle cx="1130" cy="250" r="0.8" opacity="0.55"/>
+  <g fill="#ffffff" opacity="0.7">
+    <circle cx="30" cy="25" r="0.8"/>
+    <circle cx="88" cy="50" r="0.5"/>
+    <circle cx="140" cy="18" r="1.0"/>
+    <circle cx="205" cy="40" r="0.6"/>
+    <circle cx="260" cy="22" r="0.7"/>
+    <circle cx="320" cy="60" r="0.5"/>
+    <circle cx="390" cy="30" r="0.9"/>
+    <circle cx="470" cy="50" r="0.6"/>
+    <circle cx="540" cy="20" r="0.8"/>
+    <circle cx="610" cy="55" r="0.6"/>
+    <circle cx="690" cy="28" r="1.1"/>
+    <circle cx="760" cy="48" r="0.5"/>
+    <circle cx="830" cy="20" r="0.7"/>
+    <circle cx="900" cy="52" r="0.8"/>
+    <circle cx="970" cy="30" r="0.6"/>
+    <circle cx="1045" cy="48" r="0.9"/>
+    <circle cx="1115" cy="24" r="0.7"/>
+    <circle cx="1175" cy="58" r="0.8"/>
+    <circle cx="60" cy="290" r="0.6"/>
+    <circle cx="180" cy="300" r="0.5"/>
+    <circle cx="300" cy="310" r="0.7"/>
+    <circle cx="420" cy="305" r="0.5"/>
+    <circle cx="540" cy="300" r="0.6"/>
+    <circle cx="660" cy="308" r="0.7"/>
+    <circle cx="780" cy="302" r="0.5"/>
+    <circle cx="900" cy="310" r="0.6"/>
+    <circle cx="1020" cy="300" r="0.7"/>
+    <circle cx="1140" cy="308" r="0.5"/>
   </g>
 
-  <!-- Taken blight sphere -->
-  <g transform="translate(900,160)" filter="url(#blightglow)">
-    <circle r="58" fill="#22c55e" opacity="0.18"/>
-    <circle r="40" fill="#4ade80" opacity="0.25"/>
-    <circle r="22" fill="#86efac" opacity="0.5"/>
-    <circle r="9" fill="#dcfce7" opacity="0.9"/>
-  </g>
-  <!-- Blight tendrils -->
-  <g stroke="#22c55e" stroke-width="1.2" fill="none" opacity="0.55">
-    <path d="M 900 102 Q 915 70 940 60"/>
-    <path d="M 958 160 Q 990 150 1010 120"/>
-    <path d="M 900 218 Q 910 250 935 265"/>
-    <path d="M 842 160 Q 810 145 790 115"/>
-    <path d="M 855 115 Q 830 85 845 60"/>
-    <path d="M 945 205 Q 975 225 965 255"/>
-  </g>
 
-  <!-- Motes of light -->
-  <g filter="url(#glow)">
-    <circle cx="260" cy="90" r="3" fill="#fbbf24" opacity="0.9"/>
-    <circle cx="300" cy="130" r="2.2" fill="#fbbf24" opacity="0.8"/>
-    <circle cx="230" cy="150" r="2.6" fill="#fde68a" opacity="0.85"/>
-    <circle cx="340" cy="100" r="1.8" fill="#fbbf24" opacity="0.7"/>
-    <circle cx="520" cy="200" r="2.4" fill="#fbbf24" opacity="0.8"/>
-    <circle cx="560" cy="170" r="1.9" fill="#fde68a" opacity="0.75"/>
-    <circle cx="480" cy="230" r="2.1" fill="#fbbf24" opacity="0.7"/>
-    <circle cx="620" cy="190" r="2.6" fill="#fbbf24" opacity="0.85"/>
-  </g>
+  <!-- Logo (left) -->
+  <svg x="60" y="75" width="150" height="150" viewBox="0 0 1024 1024" overflow="visible">
+    <defs>
+      <mask id="iconmask" maskUnits="userSpaceOnUse" x="0" y="0" width="1024" height="1024">
+      <path fill="white" d="M442.132 791.747c-11.186 17.788-25.765 13.020-36.677 13.661-50.613-37.318-99.943-73.352-148.814-110.029-22.049-14.802-37.98-37.252-44.057-63.477l-0.138-0.706 186.315-291.942h43.37z"/>
+      <path fill="white" d="M810.727 631.472c-3.523 24.419-17.124 45.108-36.374 58.032l-0.302 0.191c-28.699 21.731-59.691 40.344-88.482 61.983-22.281 16.871-42.728 36.677-62.716 53.548h-28.332l-12.286-12.286v-453.685h43.645z"/>
+      <path fill="white" d="M527.496 915.804h47.955c23.014 14.488 10.728 34.567 16.046 53.088h-155.874l-1.833-39.335 13.295-12.653h49.33v-741.226c-6.143-19.255-26.59-9.169-40.619-13.020-12.011-17.054-12.378-16.963-11.37-43.003h134.51c3.118 13.936 6.602 29.157-9.169 41.627-12.195 8.619-32.275-7.885-42.086 22.923z"/>
+      <path fill="white" d="M1016.297 638.624h-45.845q-178.797-270.395-360.527-546.476l12.103-62.074z"/>
+      <path fill="white" d="M7.702 638.899l394.269-609.192 11.461 63.358-359.885 545.834z"/>
+      <path fill="white" d="M933.042 631.105h-44.562c-30.992-49.055-63.174-97.925-93.341-147.988-27.507-46.578-60.241-90.223-86.739-137.536s-60.241-94.258-91.69-140.653c-19.53-28.974-20.172-28.516-12.103-72.711 45.57 51.163 72.436 111.129 111.037 163.392s67.301 112.963 105.169 166.419 68.493 112.504 112.229 169.077z"/>
+      <path fill="white" d="M423.61 136.252v41.995l-287.541 451.759h-43.095c108.103-166.327 214.555-330.086 320.916-493.662 0.55-0.733 3.026-0.092 9.719-0.092z"/>
+      <path fill="white" d="M436.447 89.122l-13.478-89.123h174.945c0.811 8.487 1.273 18.348 1.273 28.317 0 6.489-0.196 12.932-0.582 19.323l0.042-0.879c-3.606 16.307-8.178 30.458-13.911 44.001l0.616-1.639z"/>
+      <path fill="white" d="M69.685 742.692h36.677l300.287 229.226v25.123l-18.338 1.192c-56.573-42.728-112.596-82.522-165.777-125.983-51.438-41.81-108.194-77.020-157.341-121.582z"/>
+      <path fill="white" d="M635.69 997.776h-16.229v-27.507l298.727-227.576h37.777c0 5.135 1.742 11.553 0 13.111-29.891 23.106-60.424 45.845-90.682 68.309-18.338 14.029-37.502 27.507-55.84 42.27-32.275 25.399-64.183 51.805-96.55 76.745-24.573 18.338-50.063 35.301-77.204 54.648z"/>
+      <path fill="white" d="M865.741 709.5l35.667 17.421c-48.596 36.677-97.467 72.802-145.421 110.029s-90.040 77.937-145.329 111.862v-49.146z"/>
+      <path fill="white" d="M122.681 727.656c27.507-20.906 48.78-10.728 73.352 8.068 43.37 33.467 86.005 68.126 132.401 98.018 30.441 19.622 57.215 45.020 86.739 68.768v41.902c-19.969-6.956-37.1-17.53-51.414-31.055l0.068 0.063c-45.845-38.877-95.358-72.802-141.111-111.862-26.407-22.556-57.398-39.885-82.522-65.009-5.022-3.682-10.829-6.703-17.071-8.768l-0.442-0.127z"/>
+      <path fill="white" d="M598.372 990.257v33.742h-171.92l-1.742-33.742z"/>
+      <path fill="white" d="M49.604 670.532l25.765 49.146-34.934 10.728-32.092-59.874z"/>
+      <path fill="white" d="M948.355 720.045l26.957-50.43h39.794l-30.441 60.699z"/>
+      <path fill="white" d="M85.731 660.171h46.762l10.453 30.624-32.459 15.221-24.756-34.567z"/>
+      <path fill="white" d="M937.719 660.171v21.731l-22.281 24.114-33.009-14.304 7.518-31.175z"/>
+      <path fill="black" d="M776.463 805.79C537.624 611.55 680.564 670.122 432.724 674.626C416.248 673.898 399.51 671.525 383.606 667.25C320.918 650.441 335.33 568.927 334.894 518.91C335.915 492.992 337.722 467.047 340.668 441.285C346.699 391.737 354.913 336.957 417.273 337.753C531.415 338.529 646.58 321.819 759.639 342.268C795.217 352.087 809.038 364.329 812.423 401.739C819.154 476.438 826.958 552.666 812.662 626.889C810.68 638.693 803.767 646.289 791.28 648.091C760.67 651.53 736.4 669.919 747.997 703.062C757.579 737.433 768.844 770.882 776.463 805.79Z"/>
+      <path fill="white" d="M509.442 282.274C281.049 281.106 299.61 361.791 286.388 553.847C250.056 554.857 192.452 635.124 158.499 655.172C176.569 620.286 219.466 557.286 157.994 541.765C124.289 532.649 113.088 521.381 110.952 486.338C108.84 451.687 109.049 416.793 110.251 382.075C118.677 303.414 104.262 226.561 209.555 228.643C298.612 231.04 388.557 223.487 476.786 238.18C501.879 242.031 509.213 261.272 509.442 282.274Z"/>
+      </mask>
+    </defs>
+    <rect x="0" y="0" width="1024" height="1024" fill="#cbd5e1" mask="url(#iconmask)" filter="url(#logoglow)"/>
+  </svg>
 
-  <!-- Derelict ship silhouette -->
-  <g transform="translate(150,185) rotate(-6)" filter="url(#softglow)" opacity="0.95">
-    <!-- engine glow -->
-    <ellipse cx="-70" cy="4" rx="18" ry="7" fill="#f97316" opacity="0.8"/>
-    <ellipse cx="-78" cy="4" rx="26" ry="10" fill="#fbbf24" opacity="0.3"/>
-    <!-- hull -->
-    <path d="M -60 -10 L 95 -4 L 110 0 L 95 4 L -60 10 Z" fill="#3f3f46" stroke="#71717a" stroke-width="0.6"/>
-    <!-- asym wings -->
-    <path d="M -20 -10 L 15 -42 L 35 -10 Z" fill="#27272a" stroke="#71717a" stroke-width="0.5"/>
-    <path d="M -10 10 L 25 34 L 40 10 Z" fill="#27272a" stroke="#71717a" stroke-width="0.5"/>
-    <!-- cockpit / visor -->
-    <ellipse cx="80" cy="0" rx="9" ry="4" fill="#22d3ee" opacity="0.85"/>
-    <!-- rust patches -->
-    <circle cx="30" cy="-2" r="4" fill="#7c2d12" opacity="0.5"/>
-    <circle cx="60" cy="3" r="3" fill="#7c2d12" opacity="0.4"/>
-    <!-- antenna -->
-    <line x1="100" y1="-2" x2="118" y2="-14" stroke="#a1a1aa" stroke-width="1"/>
-    <circle cx="118" cy="-14" r="1.5" fill="#fbbf24" opacity="0.9"/>
+  <g font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" filter="url(#textblur)" opacity="0.7">
+    <text x="232" y="120" font-size="14" font-weight="500" fill="#000000" letter-spacing="6">DESTINY 2  ·  THE DRIFTER</text>
+    <text x="232" y="178" font-size="54" font-weight="800" fill="#000000" letter-spacing="2">THE DRIFTER</text>
+    <text x="232" y="212" font-size="15" font-weight="400" fill="#000000" letter-spacing="5">AGENT BRAIN  /  WRAPPER</text>
+    <text x="234" y="244" font-size="12" font-weight="400" fill="#000000" letter-spacing="3">TRUST.</text>
   </g>
-
-  <!-- Gambit bank / card hint -->
-  <g transform="translate(1080,250) rotate(12)" opacity="0.5">
-    <rect x="0" y="0" width="26" height="38" rx="3" fill="#1e293b" stroke="#64748b" stroke-width="0.8"/>
-    <rect x="6" y="0" width="26" height="38" rx="3" fill="#1e293b" stroke="#64748b" stroke-width="0.8"/>
-    <text x="19" y="24" font-size="16" fill="#fbbf24" text-anchor="middle" font-family="serif">♠</text>
-  </g>
-
-  <!-- Title block -->
   <g font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif">
-    <text x="60" y="132" font-size="15" font-weight="500" fill="#94a3b8" letter-spacing="6">DESTINY 2  ·  THE DRIFTER</text>
-    <text x="60" y="188" font-size="58" font-weight="800" fill="#f8fafc" letter-spacing="2">THE DRIFTER</text>
-    <text x="60" y="226" font-size="16" font-weight="400" fill="#a5b4fc" letter-spacing="5">AGENT BRAIN  /  WRAPPER</text>
-    <text x="62" y="258" font-size="12" font-weight="400" fill="#64748b" letter-spacing="3">TRUST.  ·  DRIFT.  ·  GAMBLE.</text>
+    <text x="232" y="120" font-size="14" font-weight="500" fill="#94a3b8" letter-spacing="6">DESTINY 2  ·  THE DRIFTER</text>
+    <text x="232" y="178" font-size="54" font-weight="800" fill="#f8fafc" letter-spacing="2">THE DRIFTER</text>
+    <text x="232" y="212" font-size="15" font-weight="400" fill="#a5b4fc" letter-spacing="5">AGENT BRAIN  /  WRAPPER</text>
+    <text x="234" y="244" font-size="12" font-weight="400" fill="#64748b" letter-spacing="3">TRUST.</text>
   </g>
 
-  <!-- Accent line -->
-  <line x1="60" y1="200" x2="470" y2="200" stroke="#22c55e" stroke-width="1" opacity="0.45"/>
-
-  <!-- Vignette -->
   <rect width="1200" height="320" fill="url(#vig)" pointer-events="none"/>
 </svg>

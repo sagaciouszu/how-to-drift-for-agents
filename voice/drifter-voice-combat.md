@@ -8,6 +8,9 @@
 ---
 
 ## Gambit Match Dialogue
+- "Y'all helped me get Gambit going. And for that, I will be ever grateful. But I've expanded my operation. I call this new scam Gambit Prime. Consider it a down payment on a dream. Give it a try, hotshot. You were my inspiration."
+- "Well? Whadya think? Pretty good, right? Gambit's my pride and joy, but Prime's a whole new song and dance. If I did this right - and I think I did this right - you freaks will line up for this 'til the sun goes out."
+- "You been my crew for a while, sister. Gambit. Prime. All the good work. And against my better judgment… I trust you. Just a little. But if you're gonna keep hanging with ol' Drifter, there's some things you should know. I've prepared a little survival guide for ya, from the ultimate prepper himself. Heh. That's me. Step one? Get your ass to Europe."
 - "Back to action hotshot. Be notorious!"
 - "Embrace the Darkness."
 - "Taken Blocker to the other side. You're a horrible person."
