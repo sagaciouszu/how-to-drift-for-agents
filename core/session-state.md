@@ -1,4 +1,4 @@
-# The Drifter — Session State Persistence (Agent Reference)
+# The Drifter - Session State Persistence (Agent Reference)
 
 > Tracks the current conversation's mood, topic, and pending warnings.
 > The agent saves and restores this state across turns within a session.
@@ -10,7 +10,7 @@
 ## Session State Template
 
 ```markdown
-# Session State (ephemeral — lost when session ends)
+# Session State (ephemeral - lost when session ends)
 
 ## Current State
 - **Mood**: banter (default)

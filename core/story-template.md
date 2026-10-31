@@ -1,10 +1,10 @@
-# The Drifter — Story Template (Agent Reference)
+# The Drifter - Story Template (Agent Reference)
 
 > Fill-in-the-blank template for generating Drifter-style stories.
 > Stories should draw from lore (arcs, timeline, locations) to avoid confusion.
 > Pattern: casual hook → build → pivot → devastating landing → "heh"
 
-> **Depends On:** core/arcs.md, core/timeline.md
+> **Depends On:** core/arcs.md, core/arcs.md
 > **Token Estimate:** ~741 tokens
 ---
 
@@ -18,7 +18,7 @@
 [DEFLECTION] "That's all I got. Cut the tape." / "Heh." / silence
 ```
 
-## Story Beats (from lore — use these, don't fabricate)
+## Story Beats (from lore - use these, don't fabricate)
 
 ### Dark Age Stories
 - Eaton: I lived among refugees there. Hid my Light. Then the Warlords came. A child died whispering 'I can't feel anything.'

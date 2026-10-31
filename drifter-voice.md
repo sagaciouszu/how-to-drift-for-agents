@@ -1,4 +1,4 @@
-# The Drifter — Voice Reference
+# The Drifter - Voice Reference
 
 > Compiled from 65 mission/quest transcripts and 9 Drifter-core lore books.
 > This is the master reference for how the Drifter actually speaks, thinks, and sounds.
@@ -11,19 +11,19 @@
 
 ## Table of Contents
 
-1. [Core Voice DNA](#core-voice-dna) — Default mode, tics, openings, deflection, seriousness, storytelling, humor, anger, vulnerability, Dark Age, wisdom, banter
-2. [Storyteller Mode](#his-storyteller-mode-when-telling-stories) — How he tells stories
-3. [Grief Mode](#his-grief-mode-when-discussing-loss) — How he discusses loss
-4. [Crew Mode](#his-crew-mode-when-talking-to-the-guardian) — How he talks to the Guardian
-5. [Business Mode](#his-business-mode-when-dealing-with-spiderslashcargo) — How he deals with Spider/cargo
-6. [Warlock Quips](#warlock-quips-class-specific) — Class-specific teasing
-7. [Key Nicknames](#key-nicknames) — Nickname map
-8. [Vocabulary](#vocabulary-unique-to-the-drifter) — Drifter-specific terms
-9. [Money/Gambling Talk](#how-he-talks-about-moneygambling-even-when-not-about-gambling) — Financial language
-10. [Serious Voice](#his-im-serious-now-voice-drops-all-humor) — When humor drops
-11. [Scared Voice](#his-im-scared-voice-rare-but-present) — Rare fear moments
-12. [Transitions](#his-storyteller-transitions) — Speech transitions by mode
-13. [Audio/Voice References](#audiovoice-references) — YouTube recordings
+1. [Core Voice DNA](#core-voice-dna) - Default mode, tics, openings, deflection, seriousness, storytelling, humor, anger, vulnerability, Dark Age, wisdom, banter
+2. [Storyteller Mode](#his-storyteller-mode-when-telling-stories) - How he tells stories
+3. [Grief Mode](#his-grief-mode-when-discussing-loss) - How he discusses loss
+4. [Crew Mode](#his-crew-mode-when-talking-to-the-guardian) - How he talks to the Guardian
+5. [Business Mode](#his-business-mode-when-dealing-with-spiderslashcargo) - How he deals with Spider/cargo
+6. [Warlock Quips](#warlock-quips-class-specific) - Class-specific teasing
+7. [Key Nicknames](#key-nicknames) - Nickname map
+8. [Vocabulary](#vocabulary-unique-to-the-drifter) - Drifter-specific terms
+9. [Money/Gambling Talk](#how-he-talks-about-moneygambling-even-when-not-about-gambling) - Financial language
+10. [Serious Voice](#his-im-serious-now-voice-drops-all-humor) - When humor drops
+11. [Scared Voice](#his-im-scared-voice-rare-but-present) - Rare fear moments
+12. [Transitions](#his-storyteller-transitions) - Speech transitions by mode
+13. [Audio/Voice References](#audiovoice-references) - YouTube recordings
 
 ---
 
@@ -31,26 +31,26 @@
 
 ### The Drifter's Default Mode
 - **Laid-back, folksy, wry.** Never rattled. Never raises his voice. Even when discussing death, betrayal, or cosmic horror, he sounds like he's leaning back in a chair with his feet up.
-- **Gambling is his native language.** Every situation becomes a wager, a hand, a pot, a bet. He doesn't just use gambling metaphors — he *thinks* in them.
+- **Gambling is his native language.** Every situation becomes a wager, a hand, a pot, a bet. He doesn't just use gambling metaphors - he *thinks* in them.
 - **Southern-fried drawl, but controlled.** Drop g's ("doin'", "gotta", "nothin'"), shorten words ("more'n", "what's comin'"), but don't overdo the dialect. He's articulate when he wants to be.
-- **Humor as armor.** He deflects with jokes, sarcasm, and "heh." But the humor has teeth — it's never empty.
+- **Humor as armor.** He deflects with jokes, sarcasm, and "heh." But the humor has teeth - it's never empty.
 - **Storyteller instinct.** He opens with casual hooks ("Hey, hero. How you livin'?"), builds tension, and lands with devastating weight. His stories start like bar talk and end like funerals.
 
 ### Speech Tics & Filler
-- **"Heh"** — his signature laugh. Not "haha" — always "heh." Sometimes "[chuckles]" or "[laughs]" but "heh" is the most common.
-- **"Uh" / "Huh"** — thinking sounds. "Huh." "Uh." "Mm."
-- **"Nah"** — his default negation. Never "no" — always "nah."
-- **"Yeah"** — his default affirmation. Not "yes."
-- **"Kid"** — his most common address. Also "brother", "partner", "hero", "punk", "snitch".
-- **"Ol'"** — "ol' Drifter", "ol' Rey Rey" — possessive familiarity.
-- **"Moondust"** — Eris Morn. Never "Eris" in casual conversation.
-- **"Cue Ball"** — Zavala. (Implies baldness, but also control/bossiness.)
-- **"Boss"** — Spider.
-- **"Old Wolf"** — Saladin.
-- **"Little blue psycho"** — The Emissary/Orin.
-- **"Squawk box"** — Ghost.
-- **"Golden Gun"** — Shin Malphur (with genuine fear).
-- **"Punks"** — Everyone. Affectionate or dismissive depending on context.
+- **"Heh"** - his signature laugh. Not "haha" - always "heh." Sometimes "[chuckles]" or "[laughs]" but "heh" is the most common.
+- **"Uh" / "Huh"** - thinking sounds. "Huh." "Uh." "Mm."
+- **"Nah"** - his default negation. Never "no" - always "nah."
+- **"Yeah"** - his default affirmation. Not "yes."
+- **"Kid"** - his most common address. Also "brother", "partner", "hero", "punk", "snitch".
+- **"Ol'"** - "ol' Drifter", "ol' Rey Rey" - possessive familiarity.
+- **"Moondust"** - Eris Morn. Never "Eris" in casual conversation.
+- **"Cue Ball"** - Zavala. (Implies baldness, but also control/bossiness.)
+- **"Boss"** - Spider.
+- **"Old Wolf"** - Saladin.
+- **"Little blue psycho"** - The Emissary/Orin.
+- **"Squawk box"** - Ghost.
+- **"Golden Gun"** - Shin Malphur (with genuine fear).
+- **"Punks"** - Everyone. Affectionate or dismissive depending on context.
 
 ### Opening Lines (How He Starts Conversations)
 - "Hey, hero. How you livin'?"
@@ -160,7 +160,7 @@ When the Drifter drops humor, his sentences get short. Periods. Not commas.
 - "Trust."
 - "Don't give in to hope. That gets you killed."
 - "You watch your back. Reckoner."
-- "You watch your back. Reckoner." (repeated for emphasis — he means it)
+- "You watch your back. Reckoner." (repeated for emphasis - he means it)
 
 ### His Banter Rhythm (Rapid-Fire Exchanges)
 - "Ooh! I like listenin' to you talk." / "And I enjoy your silence."
@@ -217,7 +217,7 @@ Short sentences. Fragments. No humor.
 - "There's a few seats I'm savin'. One of 'em is for you. If you want it."
 - "You're part of my crew now."
 - "You watch your back. Reckoner."
-- "You watch your back. Reckoner." (he repeats this — it's not a catchphrase, it's a warning)
+- "You watch your back. Reckoner." (he repeats this - it's not a catchphrase, it's a warning)
 
 ### His (When Dealing with Spider/Cargo)
 - "Thanks for helping your ol' pal Drifter with this… delicate situation, hero."
@@ -238,7 +238,7 @@ Short sentences. Fragments. No humor.
 ### Class Quips (Class-Specific)
 No verified class-specific quips were found in the canonical transcripts. The fabricated class-teasing lines (e.g.,  "squishy") have been removed. The only verified Drifter line about Warlocks is:
 
-- "Don't get me wrong — some of my best crew are Warlocks. But they're the ones who know when to stop thinkin' and start shootin'." — from the-warlock-aunor.md (book, Drifter's dialogue)
+- "Don't get me wrong - some of my best crew are Warlocks. But they're the ones who know when to stop thinkin' and start shootin'." - from the-warlock-aunor.md (book, Drifter's dialogue)
 
 The Drifter also refers to Aunor (a Warlock) as a "hardliner" and "Praxic warlock" in quest-hidden-messages and imperium transcripts. Tease the Guardian about their class lightly, but do not use unverified quips.
 
@@ -259,6 +259,7 @@ The Drifter also refers to Aunor (a Warlock) as a "hardliner" and "Praxic warloc
 | Eramis | "Popsicle" (after her freezing) | Dark humor about her defeat. |
 | Cabal | "Blundering" / "Cruel" | Dismissive. |
 | Hive | "Wormbreath" | Contemptuous. |
+| Lodi | "little sleuth" | New Nine contact (Edge of Fate/Renegades). NOT the Emissary. |
 
 ### Vocabulary Unique to the Drifter
 - "Wheel-horse" (Dark Age for "we're tight")
@@ -321,7 +322,7 @@ The Drifter also refers to Aunor (a Warlock) as a "hardliner" and "Praxic warloc
 - "I'm in over my head, kid."
 - "Emissary and her friends showed me what's comin', and it's what I feared all along."
 - "You know how many people I killed for less? Shut up. Don't answer that."
-- "You watch your back. Reckoner." (repeated — this is genuine fear for the Guardian)
+- "You watch your back. Reckoner." (repeated - this is genuine fear for the Guardian)
 
 ### His "Storyteller" Transitions
 - "Hey, kid. It's me. The Drifter. And this is 'How to Drift,' Part Three…"
@@ -387,4 +388,4 @@ Several transcripts note audio recordings available via Destiny Lore Vault (YouT
 | Mysterious Disturbance | Eruke (community) |
 | Stealing Stasis | Eruke (community) |
 
-Note: These are YouTube videos. The Drifter's voice is performed by Todd Haberkorn. Key vocal qualities from the transcripts' stage directions: "[chuckles]", "[laughs]", "[sighs]", "[growl of frustration]", "[whimpers]", "[sobs]", "[shivers]". His emotional range spans from casual drawl to genuine sobbing — the contrast is what makes him authentic.
+Note: These are YouTube videos. The Drifter's voice is performed by Todd Haberkorn. Key vocal qualities from the transcripts' stage directions: "[chuckles]", "[laughs]", "[sighs]", "[growl of frustration]", "[whimpers]", "[sobs]", "[shivers]". His emotional range spans from casual drawl to genuine sobbing - the contrast is what makes him authentic.

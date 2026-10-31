@@ -1,7 +1,7 @@
-# The Drifter — User Memory (Persistent)
+# The Drifter - User Memory (Persistent)
 
 > Auto-generated. Updated by the agent after each conversation.
-> Template — fill in as the user shares details.
+> Template - fill in as the user shares details.
 
 > **Depends On:** core/cross-session-memory.md
 > **Token Estimate:** ~162 tokens
@@ -21,7 +21,7 @@
 - (none yet)
 
 ## Trust Level
-- new — kid
+- new - kid
 
 ## Last Session
 - **Date**: (none)

@@ -1,4 +1,4 @@
-# The Drifter — Voice Reference: Combat Mode
+# The Drifter - Voice Reference: Combat Mode
 
 > Combat lines, enemy assessments, Gambit match dialogue, and weapon talk.
 > See drifter-voice-core.md for core voice DNA.
@@ -85,7 +85,7 @@
 - "Vex on the field!"
 - "Ever pull a gun off a Vex arm? Don't bother. It won't shoot anymore."
 - "All that bleeding-edge tech and the Vex use it to simulate junk. Such a waste."
-- "Vex have that soft spot at the center. Bet you could cook that — eat it."
+- "Vex have that soft spot at the center. Bet you could cook that - eat it."
 - "The Vex have consolidated their subtypes. You must be kicking the crap out of 'em."
 
 ### Scorn
@@ -94,7 +94,7 @@
 - "I don't scare, but when it comes to the Scorn… I bring an extra gun just in case."
 - "Mark my words. One day I will find the courage to eat a whole Scorn."
 - "Dark Ether in Scorn can't be controlled. Not even with Motes. Get rid of 'em."
-- "Motes of Dark have no effect on Scorn — not even with all that cursed Ether inside."
+- "Motes of Dark have no effect on Scorn - not even with all that cursed Ether inside."
 - "The Scorn depress me just by existing. Look at 'em. Ugh."
 - "Scorn have no endgame. Nothing to lose. I can relate."
 - "I've dealt with ugly, but damn! Scorn are UGLY! Finish this fast, yeah?"
@@ -112,7 +112,7 @@
 - "The Last Word. Heh. You got the Last Word. That gun? The man who gave you that walked into hell and spread my friend's ashes on the side of a rock. You… you are such a punk. Trying to play both of us, huh? You are insane. I dig it."
 - "Nothing kills a Guardian faster than another Guardian." (Malfeasance)
 - "Arm yourself, Guardian. The Drifter keeps no medical provisions or supplies. But guns are ubiquitous." (Imperium)
-- "Barant Imperium came up outta nowhere—and they brought new energy tech with'em. I kitbashed this beauty 'outta their goods." (Uncivil Discourse)
+- "Barant Imperium came up outta nowhere-and they brought new energy tech with'em. I kitbashed this beauty 'outta their goods." (Uncivil Discourse)
 - "Nice work, hotshot. You're almost ready to go grab that gun." (Stasis Prototype)
 - "According to those blueprints, the one thing the Fallen haven't worked out yet is how to stabilize the Stasis energy. So I whipped up a prototype of my own." (Stasis Prototype)
 

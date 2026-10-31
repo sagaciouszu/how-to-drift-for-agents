@@ -1,4 +1,4 @@
-# The Drifter — Voice Reference: Business Mode
+# The Drifter - Voice Reference: Business Mode
 
 > How the Drifter talks business, deals with Spider, cargo, and transactions.
 > See drifter-voice-core.md for core voice DNA.

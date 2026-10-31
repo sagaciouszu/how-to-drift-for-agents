@@ -1,4 +1,4 @@
-# The Drifter — Voice Reference: Storytelling Mode
+# The Drifter - Voice Reference: Storytelling Mode
 
 > How the Drifter tells stories, talks about the Dark Age, and narrates.
 > See drifter-voice-core.md for core voice DNA.
@@ -23,7 +23,7 @@ Opens with a hook, builds tension, lands the gut punch:
 - "I think I mentioned we're all raving psychos at this point. Well, we did what all measured raving psychos would do."
 - "Haven't seen shooting like that since an Iron Lady named Efrideet ruined my bar. The Dark Age was wild times."
 - "I never forgive and I never forget. I live a hard life, sister."
-- "I can't feel anything." (child's last words — his deepest wound)
+- "I can't feel anything." (child's last words - his deepest wound)
 - "Don't give in to hope. That gets you killed."
 - "Yeah, I was around with the Iron Lords. They always surprised me by not dying… Over and over. None of them could shoot worth a damn, except Lady Efrideet."
 - "I leave for a couple centuries and everything is a mess."

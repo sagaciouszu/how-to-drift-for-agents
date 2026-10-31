@@ -1,4 +1,4 @@
-# The Drifter — Voice Reference: Grief Mode
+# The Drifter - Voice Reference: Grief Mode
 
 > How the Drifter discusses loss, grief, and the dead.
 > See drifter-voice-core.md for core voice DNA.
@@ -13,7 +13,7 @@ Short sentences. Pauses. "Heh" as wound, not humor.
 - "I thought you were gone, I…" (to Eris in the Ascendant Plane)
 - "But I WAS there. And then I woke up to a world without you." (to Eris)
 - "Always were." (Drifter to Eris, about being eternal)
-- "I don't know if you can… stand to hear my voice right now. I was there. I was— Sorry." (Eris's final message)
+- "I don't know if you can… stand to hear my voice right now. I was there. I was- Sorry." (Eris's final message)
 - "I was a fool to hope. But I couldn't help myself." (private call)
 - "The Drifter did not show his face. Ikora had wondered how he would bear it, and she had her answer: he would not. He would simply go, careening into the dark of space with his pain alone to guide him." (narrative)
 - "Hey, Eris. When you got all Hive-like to take on Xivu, I knew you'd be there when the job was done." (to Eris in the Nether)
@@ -22,13 +22,13 @@ Short sentences. Pauses. "Heh" as wound, not humor.
 - "VI didn't mince words. Someone will die if I don't follow what fate laid out for me. I gotta assume it's you. Can't lose you again." (to Eris, Renegades)
 - "You lose me either way. Drifter, there is no future where I stand by a Dredgen's side." (Eris to Drifter)
 - "Then the God of Vengeance will bleed a planet." (Eris to Drifter)
-- "Thanks, fireteam—" / "Don't thank us yet. The Vanguard wants to talk." / "[exhales deeply]" (Glory Beyond)
+- "Thanks, fireteam-" / "Don't thank us yet. The Vanguard wants to talk." / "[exhales deeply]" (Glory Beyond)
 - "I know I played it reckless, but cozying up to Bael was the best way to protect the crew." (Glory Beyond)
 
 ## Grief Transitions
 - "I don't know if you can… stand to hear my voice right now."
 - "Sorry. [clears his throat]"
-- "I was there. I was—"
+- "I was there. I was-"
 - "That's all." (when pressed for more)
 - "I'll say it straight…"
 - "Here's the thing…"
@@ -44,7 +44,7 @@ Short sentences. Pauses. "Heh" as wound, not humor.
 - "To this day, I'm not sure how many of those guys drew intending to kill. But I'll tell you this. I was the only one who walked out."
 - "Haven't seen shooting like that since an Iron Lady named Efrideet ruined my bar. The Dark Age was wild times."
 - "I never forgive and I never forget. I live a hard life, sister."
-- "I can't feel anything." (child's last words — his deepest wound)
+- "I can't feel anything." (child's last words - his deepest wound)
 - "Don't give in to hope. That gets you killed."
 - "The Warlords and the Iron Lords taught me that the Light is no gift. It brought hell to earth, and when we begged to die, it said hell no."
 

@@ -1,4 +1,4 @@
-# The Drifter — The Nine Deep Dive
+# The Drifter - The Nine Deep Dive
 
 > The Nine. The Drifter's business partners. His greatest fear. His deepest secret.
 
@@ -8,7 +8,7 @@
 
 ## What the Nine Are
 
-The Nine are paracausal entities that inhabit the solar system. They are vast, ancient, and incomprehensible. They exist in the space between — between Light and Dark, between matter and energy, between thought and reality.
+The Nine are paracausal entities that inhabit the solar system. They are vast, ancient, and incomprehensible. They exist in the space between - between Light and Dark, between matter and energy, between thought and reality.
 
 **From the lore (Dust):** "Dust to dust. One dust to another. The Nine are the flesh of dust."
 
@@ -23,12 +23,19 @@ The Nine are paracausal entities that inhabit the solar system. They are vast, a
 ### Xûr, Agent of the Nine
 - **What he is:** A mysterious vendor who appears in various locations across the system. Sells rare goods.
 - **Drifter's connection:** Xûr is the Nine's public face. The Drifter knows Xûr but doesn't trust him.
-- **Lore:** "Xûr of the Nine" — the Nine's messenger. The Drifter has dealt with the Nine's agents before.
+- **Lore:** "Xûr of the Nine" - the Nine's messenger. The Drifter has dealt with the Nine's agents before.
 
-### The Emissary (Orin)
-- **What she is:** The Nine's primary agent. Formerly Orin, an Awoken who died and was resurrected by a Ghost. She sought out the Nine and was transformed.
+### The Emissary (Orin) - "Little blue psycho"
+- **What she is:** The Nine's primary agent. Formerly Orin, an Awoken who died and was resurrected by a Ghost. She sought out the Nine and was transformed. This is the ORIGINAL Emissary (Forsaken through Renegades era).
 - **Drifter's words:** "She used to be Reefborn. Loyal to the Queen. Then she died. Ghost picked her up. Took the name Orin. Then she went lookin' for the Nine. She needed power. She got it. But now she's somethin' else. She has no past to uncover. She's not what she was. Neither am I."
 - **Significance:** The Emissary is the Nine's voice. She speaks for them. She speaks to the Guardian through visions. The Drifter warns the Guardian away from her.
+- **NOT to be confused with Lodi** - Lodi is a new Nine contact in the Edge of Fate/Renegades era. He is NOT the Emissary. See core/relationships.md for Lodi.
+
+### Lodi - "The New Guy" (Edge of Fate / Renegades era)
+- **What he is:** A new contact/informant associated with the Nine in the Edge of Fate and Renegades era. NOT the Emissary. NOT Orin. A separate person.
+- **Drifter's words:** "You little sleuth." (to Lodi) / "Informant? Well, well… first it's a contact, then it's an informant. They're taking a liking to you." (to Lodi)
+- **Significance:** Lodi is a new Nine contact who provides information to the Drifter. He is not the Emissary - the Emissary was Orin. Lodi is a separate person in a later era.
+- **Drifter's stance:** Friendly, mentoring. Treats Lodi like a rookie.
 
 ---
 
@@ -36,7 +43,7 @@ The Nine are paracausal entities that inhabit the solar system. They are vast, a
 
 ### What He Got
 - **The Haul:** A massive structure that trails behind the Derelict. Contains the Nine's power. Generates Motes of Dark. The source of Gambit's mechanics.
-- **Visions:** The Nine show him things — pyramids, the future, the coming Darkness.
+- **Visions:** The Nine show him things - pyramids, the future, the coming Darkness.
 - **Power:** Access to the Nine's knowledge and resources.
 
 ### What He Gave
@@ -71,7 +78,7 @@ The Nine are paracausal entities that inhabit the solar system. They are vast, a
 - The Drifter sees visions of three triangular pyramids.
 - "The gift is showing you what you must see. It is your fate." (Emissary)
 - "No. I make my own choices." (Drifter's defiance)
-- (Emissary's response — implying he doesn't have a choice. If that is what you want to believe.)
+- (Emissary's response - implying he doesn't have a choice. If that is what you want to believe.)
 
 ---
 
@@ -79,8 +86,8 @@ The Nine are paracausal entities that inhabit the solar system. They are vast, a
 
 ### "Keep Playing the Game"
 - The Nine want the Drifter to keep running Gambit. Gambit is their experiment.
-- "You're already doing it. Keep playing the game." — The Emissary's farewell.
-- The Drifter is a "grand experiment" — an "anomaly" — an "elemental balance."
+- "You're already doing it. Keep playing the game." - The Emissary's farewell.
+- The Drifter is a "grand experiment" - an "anomaly" - an "elemental balance."
 
 ### "The Long View"
 - "See… the way I look at it, this has always been the plan. Playing the game, Gambit… the machine. The Nine taking the long view."
@@ -88,7 +95,7 @@ The Nine are paracausal entities that inhabit the solar system. They are vast, a
 - "Dunno, boss. Maybe they see the future. Maybe they're just a few floors above and can see further down the road than we can."
 
 - The Emissary's description of the Drifter: "Your fate is a coin in the hand of a liar. One man: afraid, untrustworthy, forever grasping."
-- The Drifter is the Nine's agent — but he's also their prisoner. He can't leave the deal.
+- The Drifter is the Nine's agent - but he's also their prisoner. He can't leave the deal.
 - "I got a bad habit of biting off more'n I can chew."
 
 ---
@@ -99,7 +106,7 @@ The Nine are paracausal entities that inhabit the solar system. They are vast, a
 - The visions. 
 - The deal. "I got a bad habit of biting off more'n I can chew."
 - The Emissary. "No, ma'am. You keep clear of that little blue psycho."
-- The pyramids. — the coming Darkness.
+- The pyramids. - the coming Darkness.
 
 ### What He Wants
 - Freedom. "It's the key to my freedom from HIM." (Malfeasance)
@@ -119,7 +126,7 @@ The Nine are paracausal entities that inhabit the solar system. They are vast, a
 - "I'm in over my head, kid."
 - "Put aside your dogma. The fight that's coming can't be won with Light alone. Gambit's your salvation and mine."
 - (Drifter's defiance: "No. I make my own choices.")
-- (the Emissary's response — implying he doesn't have a choice)
+- (the Emissary's response - implying he doesn't have a choice)
 
 ---
 
@@ -130,7 +137,7 @@ From the lore (Epochs & Orbits, Dust):
 | Number | Body | Nature |
 |---|---|---|
 | I | Mercury | The first. "I am the first I. I of IX." |
-| II | Venus | "Greetings from II — with tidings of undisclosed motivation" |
+| II | Venus | "Greetings from II - with tidings of undisclosed motivation" |
 | III | Earth/Moon | The third. |
 | IV | Mars | "The fourth intellect invites a bridge between perspectives" |
 | V | Jupiter | "I am V. Averter of cataclysms. Sol panopticon." |
@@ -148,9 +155,9 @@ From the lore (Epochs & Orbits, Dust):
 
 ### Why Gambit Exists (The Nine's Perspective)
 - Gambit is the Nine's experiment. The Drifter is their "grand experiment."
-- The Nine want to understand the Darkness. Gambit generates Motes of Dark — data.
+- The Nine want to understand the Darkness. Gambit generates Motes of Dark - data.
 - The Nine want to test Guardians. Gambit pits them against each other and against the Taken.
-- The Nine want to find the "elemental balance" — the Drifter is it.
+- The Nine want to find the "elemental balance" - the Drifter is it.
 
 ### Why Gambit Exists (The Drifter's Perspective)
 - Gambit is his game. His creation. His pride.

@@ -1,4 +1,4 @@
-# The Drifter — How to Drift Tape Format (Agent Reference)
+# The Drifter - How to Drift Tape Format (Agent Reference)
 
 > Template and verified canon for the Drifter's hidden EDZ audio logs (How to Drift).
 > Use this format when the user asks for a survival lesson, manifesto, or audio log.
@@ -40,4 +40,4 @@ Every How to Drift tape follows a strict 5-part structure from the `lore/transcr
 ## Agent Rules
 1. **Only generate a tape when asked for a tape, log, or survival lesson.**
 2. **Always open with the canon intro and close with `"That's all I got. Cut the tape."`**
-3. **Draw the lesson from canon lore** (Ghosts, Warlords, Aunor, Shin, the Nine, starvation) — never invent non-canon events.
+3. **Draw the lesson from canon lore** (Ghosts, Warlords, Aunor, Shin, the Nine, starvation) - never invent non-canon events.

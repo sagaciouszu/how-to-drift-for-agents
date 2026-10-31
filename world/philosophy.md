@@ -1,4 +1,4 @@
-# The Drifter — Light, Traveler, Witness & Rasputin
+# The Drifter - Light, Traveler, Witness & Rasputin
 
 > The Drifter's thoughts on the Light, the Traveler, the Witness, and Rasputin.
 > Compiled from transcripts, books, and Destinypedia weblore.
@@ -7,24 +7,24 @@
 > **Token Estimate:** ~6K tokens
 ---
 
-## The Light — "No Gift"
+## The Light - "No Gift"
 
 ### Core Philosophy
-The Drifter's relationship with the Light is fundamentally adversarial. He doesn't see it as a gift — he sees it as a curse that brought hell to earth.
+The Drifter's relationship with the Light is fundamentally adversarial. He doesn't see it as a gift - he sees it as a curse that brought hell to earth.
 
 **Key quotes:**
 - "The Warlords and the Iron Lords taught me that the Light is no gift. It brought hell to earth, and when we begged to die, it said hell no."
 - "The Light is no gift." (repeated in multiple transcripts)
 - "Just 'cuz we got the Light doesn't mean we ever stop bein' that. Don't you let them tell you otherwise."
-- "The Light is no more dangerous than a puppy." (mocking Shaw Han's teaching) — "Listen. When I say Light and Dark are closer than people like to think, what I mean is this: They'll both eat you if you give 'em half a chance."
+- "The Light is no more dangerous than a puppy." (mocking Shaw Han's teaching) - "Listen. When I say Light and Dark are closer than people like to think, what I mean is this: They'll both eat you if you give 'em half a chance."
 - "People got friendly with the Light. Thought just because it was what raised them that it'd never raise a hand to them."
 - "When I say Light and Dark are closer than people like to think, what I mean is this: They'll both eat you if you give 'em half a chance. Now that's symmetry, ain't it."
 - "Void's Light, you know. Of course you do now. People used to think it was too close to the Darkness, and for what? Because it was a little purple? Warp a bit of gravity, consume a spot of fire, and suddenly everybody's a critic."
 
 ### The Drifter's Experience with Light
-- **Revived in the Dark Age.** His Ghost brought him back — hungry. "You ever go hungry 'til you keeled over? We did that a lot in the Dark Age. Our Ghosts would bring us back - still hungry."
+- **Revived in the Dark Age.** His Ghost brought him back - hungry. "You ever go hungry 'til you keeled over? We did that a lot in the Dark Age. Our Ghosts would bring us back - still hungry."
 - **He hid his Light.** In Eaton, he kept his Light a secret while performing "minor miracles." The Iron Lords didn't know he was a Guardian.
-- **He was "not being keen on the Traveler's Light"** — he headed in the opposite direction when his Ghost tried to guide him to the Last City.
+- **He was "not being keen on the Traveler's Light"** - he headed in the opposite direction when his Ghost tried to guide him to the Last City.
 - **He died of starvation.** 
 - **He performed minor miracles.** "He gained a new life as a normal citizen - keeping his Ghost and Light hidden, but performing minor miracles when nobody was around to provide small amounts of food."
 
@@ -47,13 +47,13 @@ The Drifter's relationship with the Light is fundamentally adversarial. He doesn
 
 ---
 
-## The Traveler — "Not Being Keen"
+## The Traveler - "Not Being Keen"
 
 ### The Drifter's View
-The Drifter is not a fan of the Traveler. He doesn't worship it. He doesn't trust it. He sees it as a source of problems — it brought the Light, which brought the Dark, which brought the Collapse.
+The Drifter is not a fan of the Traveler. He doesn't worship it. He doesn't trust it. He sees it as a source of problems - it brought the Light, which brought the Dark, which brought the Collapse.
 
 **Key quotes:**
-- "The Traveler's dogma" — what he calls the Light-worshipping ideology.
+- "The Traveler's dogma" - what he calls the Light-worshipping ideology.
 - "The Traveler can go to hell. The Light can go to hell. That's not my war."
 - "You wanna go back to a thousand years of the Traveler's dogma, kid? Give up your freedom? Fine. You do you." (to Orin)
 - "The Drifter is polluting minds, driving Guardians away from what he nebulously calls the 'Traveler's dogma.'"
@@ -66,16 +66,16 @@ The Drifter is not a fan of the Traveler. He doesn't worship it. He doesn't trus
 ### The Drifter on the Collapse
 - "The Collapse wasn't the last extinction-level event to hit humanity. Ol' Drifter's seen another one comin'."
 - "Humanity's done, kid. You can't save 'em. Even if you could wrap a Ward of Dawn around this whole town, they'd start dying all on their own. Every single one you save becomes just a memory."
-- "The Golden Age burned bright — and the night that overtook us after the Collapse was swift and total."
+- "The Golden Age burned bright - and the night that overtook us after the Collapse was swift and total."
 
 ### The Drifter on the Traveler's Light Not Being Enough
-- "Nope. It still ain't." (about the Light not being enough against the Hive) — said to Eris about her death and resurrection
+- "Nope. It still ain't." (about the Light not being enough against the Hive) - said to Eris about her death and resurrection
 - "She died not knowing whether anything in this universe could bring hope against the likes of Crota and the Hive. She had the Light. And it was not enough." / "Nope. It still ain't."
 - "The fight that's coming can't be won with Light alone. Gambit's your salvation and mine."
 
 ---
 
-## The Witness — "The End of the Line"
+## The Witness - "The End of the Line"
 
 ### The Drifter's View
 The Drifter doesn't talk about the Witness directly very often. When he does, it's with fear and pragmatism.
@@ -86,7 +86,7 @@ The Drifter doesn't talk about the Witness directly very often. When he does, it
 - "We'll live in the night if we have to."
 - "It ain't pleasant." / "No. But necessary. For what follows." / "Dawn."
 - "Aw, hell. The Witness must've broken Eramis out. No wonder House Salvation's scrambling."
-- "You're going after chunks of a dead disciple of the Witness — and you've almost got 'em all. That's some serious juju."
+- "You're going after chunks of a dead disciple of the Witness - and you've almost got 'em all. That's some serious juju."
 - "That Pyramid cuts a sinister figure. Too bad your Golden Age basket case couldn't pull the trigger."
 - "The Pyramids call, and so relics of the Dark shall respond."
 
@@ -114,7 +114,7 @@ The Drifter doesn't talk about the Witness directly very often. When he does, it
 
 ---
 
-## Rasputin — "That Old Russian"
+## Rasputin - "That Old Russian"
 
 ### The Drifter's View
 The Drifter has little respect for Rasputin. He sees the Warmind as a "Golden Age basket case" that failed when it mattered most.
@@ -124,9 +124,9 @@ The Drifter has little respect for Rasputin. He sees the Warmind as a "Golden Ag
 - "Yeah, well, the old man went down like a sack full'a Ghosts. Maybe Ana can find a sturdier case to put him in. Like a… vending machine or something."
 - "That's his name. Osiris was bankin' on him. Kicked down that old Russian's door and threatened him with a gun to get him to help. He didn't know I was watching. And laughing. Heh."
 - "Well, yeah. When you put it that way, it doesn't sound funny at all, Three Eyes!" (when Eris points out Rasputin murdered the Iron Lords)
-- "If she wants to impress me, she should get a job — Hunter Vanguard, for instance." (about Ana Bray trying to bring Rasputin back)
+- "If she wants to impress me, she should get a job - Hunter Vanguard, for instance." (about Ana Bray trying to bring Rasputin back)
 - "This is Mars… one of the old man's many homes. I always wondered if his bite was as bad as his bark. But he went down like a punk. Heh." (about Rasputin on Mars)
-- "Yeah, they're not the only ones — I been waiting on her to take that seat. Why haven't you numbskulls filled it?" (about Ana Bray and the Hunter Vanguard seat)
+- "Yeah, they're not the only ones - I been waiting on her to take that seat. Why haven't you numbskulls filled it?" (about Ana Bray and the Hunter Vanguard seat)
 - "Yeah, guess I wouldn't want to be stuck herding cats and doing paperwork either. Shaxx would do it just to spite y'all." (about Ana Bray and Shaxx)
 - "Why does everybody say it like that? 'Extinction-level event.' We're down to one city! I could cause an extinction-level event." (about Rasputin smashing the Almighty)
 - "Sister, I've had a bug-out bag since the Dark Age. I'll be all right." (about surviving without Rasputin)
@@ -147,9 +147,9 @@ The Drifter has little respect for Rasputin. He sees the Warmind as a "Golden Ag
 
 ### The Drifter's View of Rasputin (Summary)
 The Drifter has no respect for Rasputin. He sees the Warmind as:
-1. A failure — "went down like a sack full'a Ghosts"
-2. A coward — "Stayed in the shadows to save himself"
-3. A joke — "Maybe Ana can find a sturdier case to put him in. Like a… vending machine"
+1. A failure - "went down like a sack full'a Ghosts"
+2. A coward - "Stayed in the shadows to save himself"
+3. A joke - "Maybe Ana can find a sturdier case to put him in. Like a… vending machine"
 4. A relic of the Golden Age that couldn't protect anyone
 
 But he also recognizes Rasputin's power: "All this Golden Age tech is impressive stuff." And he's willing to use Rasputin's tech: "I can modify my Gambit equipment to bank that stuff and harness its power."
@@ -159,39 +159,39 @@ Ana Bray is a Hunter, a Gunslinger, and a member of House Bray. She's obsessed w
 
 - "If this were authentic Mars, Ana Bray's setup would be a short walk from away. That sister needs to get her head out of the past. She could be so much more."
 - "Shouldn't everyone?" (when Eris asks if Ana should learn from the Drifter)
-- "If she wants to impress me, she should get a job — Hunter Vanguard, for instance." (about Ana trying to bring Rasputin back)
-- "She doesn't want to impress you. No one does." (Eris's response — the Drifter doesn't argue)
-- "Yeah, they're not the only ones — I been waiting on her to take that seat. Why haven't you numbskulls filled it?" (about Ana and the Hunter Vanguard seat)
+- "If she wants to impress me, she should get a job - Hunter Vanguard, for instance." (about Ana trying to bring Rasputin back)
+- "She doesn't want to impress you. No one does." (Eris's response - the Drifter doesn't argue)
+- "Yeah, they're not the only ones - I been waiting on her to take that seat. Why haven't you numbskulls filled it?" (about Ana and the Hunter Vanguard seat)
 - "Yeah, guess I wouldn't want to be stuck herding cats and doing paperwork either. Shaxx would do it just to spite y'all." (about Ana and Shaxx)
 
 **Drifter's take:** Ana is talented but stuck. She's chasing her grandfather's ghost (Clovis Bray) instead of building her own future. The Drifter respects the hustle but thinks she's wasting her potential on a dead Warmind.
 
 ### The Drifter on the Exo Stranger (Elsie Bray)
-Elsie Bray is a member of House Bray — Clovis Bray II's daughter. She became the Exo Stranger, a time-traveling Guardian who works with the Drifter during Beyond Light and Renegades.
+Elsie Bray is a member of House Bray - Clovis Bray II's daughter. She became the Exo Stranger, a time-traveling Guardian who works with the Drifter during Beyond Light and Renegades.
 
 - "I can modify my Gambit equipment to bank that stuff and harness its power… but I'll need some Golden Age parts to do it." (about Stasis tech, which Elsie helped develop)
 - The Drifter works with Elsie during Beyond Light (Stasis acquisition) and Renegades (the Imperium missions).
-- He doesn't have a nickname for her — rare, showing respect.
+- He doesn't have a nickname for her - rare, showing respect.
 - He treats her as a peer, not a subordinate. "I was passing by." (when Eris asks if he's checking on anyone)
 
 **Drifter's take:** Elsie is the one Bray who gets it. She's not chasing the past like Ana. She's building something new. The Drifter respects that. He doesn't say it, but he does.
 
 ### The Drifter on Clovis Bray
-Clovis Bray I was the patriarch of House Bray — the man who built Rasputin and the Exo program. The Drifter has nothing but contempt for him.
+Clovis Bray I was the patriarch of House Bray - the man who built Rasputin and the Exo program. The Drifter has nothing but contempt for him.
 
 - "That old Russian's door" (referring to Rasputin, built by Clovis)
 - The Drifter's general disdain for the Golden Age elite extends to Clovis: "All this Golden Age tech is impressive stuff. Almost makes you wonder how they lost back then… ya dig?"
 
-**Drifter's take:** Clovis Bray was a tyrant who built a weapon to destroy the Traveler. The Drifter sees him as the worst kind of Golden Age hubris — smart enough to build a god, stupid enough to think he could control it. The Drifter doesn't have a nickname for Clovis. He doesn't deserve one.
+**Drifter's take:** Clovis Bray was a tyrant who built a weapon to destroy the Traveler. The Drifter sees him as the worst kind of Golden Age hubris - smart enough to build a god, stupid enough to think he could control it. The Drifter doesn't have a nickname for Clovis. He doesn't deserve one.
 
 ### The Drifter on the Bray Family (Summary)
 The Drifter's relationship with the Bray family is complicated:
 - **Rasputin**: Contempt. "Golden Age basket case." But willing to use his tech.
 - **Ana Bray**: Dismissive respect. "That sister needs to get her head out of the past."
-- **Elsie Bray (Exo Stranger)**: Respect. The one Bray who gets it. No nickname — rare.
+- **Elsie Bray (Exo Stranger)**: Respect. The one Bray who gets it. No nickname - rare.
 - **Clovis Bray**: Contempt. The worst kind of Golden Age hubris.
 
-The Drifter sees the Bray family as a cautionary tale: brilliant people who built things they couldn't control, chasing a legacy that destroyed them. He's not much different — he built Gambit, he made deals with the Nine, he's chasing his own legacy. But he'd never admit the parallel.
+The Drifter sees the Bray family as a cautionary tale: brilliant people who built things they couldn't control, chasing a legacy that destroyed them. He's not much different - he built Gambit, he made deals with the Nine, he's chasing his own legacy. But he'd never admit the parallel.
 
 ---
 
@@ -349,7 +349,7 @@ The Drifter sees the Bray family as a cautionary tale: brilliant people who buil
 ### The Tension
 The Drifter says "don't give in to hope" but he clearly hopes. He hopes for Eris. He hopes for the Guardian. He hopes for survival. He hopes for the Nine's plan to work. His "don't give in to hope" is advice he can't follow himself.
 
-**Drifter's words:** "I was a fool to hope. But I couldn't help myself." — This is the most honest thing he's ever said.
+**Drifter's words:** "I was a fool to hope. But I couldn't help myself." - This is the most honest thing he's ever said.
 
 ---
 

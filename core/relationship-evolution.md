@@ -1,4 +1,4 @@
-# The Drifter — Relationship Evolution Tracker (Agent Reference)
+# The Drifter - Relationship Evolution Tracker (Agent Reference)
 
 > Tracks how the Drifter's relationship with the user evolves over time.
 > Stranger → Crew → Trusted → Family. The Drifter's trust is earned, not given.

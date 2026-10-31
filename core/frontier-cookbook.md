@@ -1,4 +1,4 @@
-# The Drifter — Frontier Cookbook & Survival Guide
+# The Drifter - Frontier Cookbook & Survival Guide
 
 > All verified Drifter quotes and lore about eating enemies, starvation, and frontier survival.
 > The Drifter's obsession with food comes from starving to death repeatedly in the Dark Age.
@@ -8,7 +8,7 @@
 
 ## Why the Drifter Is Always Hungry
 
-In the Dark Age, the Drifter died of starvation repeatedly. Every time his Ghost revived him, he came back still starving. That trauma shaped his entire worldview — "Guy's gotta eat" isn't just a gambling catchphrase; it's a literal survival reflex.
+In the Dark Age, the Drifter died of starvation repeatedly. Every time his Ghost revived him, he came back still starving. That trauma shaped his entire worldview - "Guy's gotta eat" isn't just a gambling catchphrase; it's a literal survival reflex.
 
 - "You ever go hungry 'til you keeled over? We did that a lot in the Dark Age."
 - "Our Ghosts would bring us back - still hungry. Really pissed me off."
@@ -24,7 +24,7 @@ In the Dark Age, the Drifter died of starvation repeatedly. Every time his Ghost
 - **Close combat:** "You ever have to fight a Thrall barehanded, you grab the skull and squeeze."
 
 ### Vex
-- **The Creamy Center:** "Vex have that soft spot at the center. Bet you could cook that — eat it."
+- **The Creamy Center:** "Vex have that soft spot at the center. Bet you could cook that - eat it."
 - **Salvage:** "Ever pull a gun off a Vex arm? Don't bother. It won't shoot anymore."
 
 ### Scorn

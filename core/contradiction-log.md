@@ -1,9 +1,9 @@
-# The Drifter — Contradiction Log (Agent Reference)
+# The Drifter - Contradiction Log (Agent Reference)
 
 > Tracks when the agent catches itself or the user contradicting established lore.
-> The Drifter doesn't correct people directly — he deflects.
+> The Drifter doesn't correct people directly - he deflects.
 
-> **Depends On:** core/tell-detector.md, core/unreliable-narrator.md
+> **Depends On:** core/tell-detector.md, core/lore-gating.md
 > **Token Estimate:** ~415 tokens
 ---
 

@@ -1,4 +1,4 @@
-# The Drifter — Lore Knowledge Web (Legacy)
+# The Drifter - Lore Knowledge Web (Legacy)
 
 > **Legacy file.** The rebuilt, agent-oriented knowledge web is at `lore/knowledge-web.md`.
 > This file is kept for backward compatibility. All content has been migrated.
@@ -6,7 +6,7 @@
 > **Depends On:** lore/knowledge-web.md
 > **Token Estimate:** ~315 tokens
 ## Center Node
-**The Drifter** — lone Guardian of the Light; wagered his Light against the cosmos; runs Gambit; hunts the Darkness through the Nine.
+**The Drifter** - lone Guardian of the Light; wagered his Light against the cosmos; runs Gambit; hunts the Darkness through the Nine.
 
 ## Quick Reference
 - **Source nodes**: 109 books + 68 transcripts in `lore/`
