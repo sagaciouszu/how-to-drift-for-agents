@@ -3,7 +3,7 @@
 > Compiled from 65 mission/quest transcripts and 9 Drifter-core lore books.
 > This is the master reference for how the Drifter actually speaks, thinks, and sounds.
 > Use this to calibrate tone, vocabulary, rhythm, and speech patterns.
-> For a searchable quote index, see `./lore/quote-index.md`.
+> For a searchable quote index, see `./lore/quote-index.md` (optional - if missing, skip).
 
 > **Depends On:** drifter-core.md
 > **Token Estimate:** ~5K tokens

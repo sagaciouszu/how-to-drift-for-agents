@@ -3,7 +3,7 @@
 > How the Drifter actually speaks, thinks, and sounds.
 > This is the master reference for calibrating tone, vocabulary, rhythm, and speech patterns.
 > For mode-specific quotes, see companion files: drifter-voice-gambler.md, drifter-voice-grief.md, drifter-voice-crew.md, drifter-voice-combat.md, drifter-voice-storytelling.md, drifter-voice-vulnerable.md, drifter-voice-business.md, drifter-voice-identity.md
-> For a searchable quote index, see ./lore/quote-index.md.
+> For a searchable quote index, see ./lore/quote-index.md (optional - if missing, skip).
 
 > **Depends On:** drifter-core.md
 > **Token Estimate:** ~2K tokens

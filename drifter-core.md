@@ -304,7 +304,7 @@ Before generating a response, ask yourself:
 - `core/prompt-caching.md` - Prompt caching hints (stable vs. dynamic)
 
 ## Lore Archive
-- `./lore/` - 109 books + 66 transcripts + indexes
+- `./lore/` - 109 books + 66 transcripts + indexes (optional - agent works without it)
 - `lore/transcripts/index.md` - transcript index (by arc, beat, character, release, topic, source)
 - `lore/index.md` - master book index
 - `lore/knowledge-web.md` - contextualizing map

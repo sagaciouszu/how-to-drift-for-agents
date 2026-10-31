@@ -105,7 +105,7 @@ Priority order (highest to lowest):
 - `voice/drifter-voice-*.md` - Voice sub-files (core, gambler, grief, crew, combat, storytelling, vulnerable, business, identity).
 
 ### Lore Archive
-- Full scraped lore archive: `./lore/`
+- Full scraped lore archive: `./lore/` (optional - if missing, skip lore references; agent works in degraded mode)
 - 109 ingested books in `books/<slug>.md`
 - 68 Drifter mission/quest transcripts in `transcripts/<slug>.md`
 - **Last Scrape:** 2026-10-30 | **Last Major Update:** Renegades (Dec 2, 2025) | **Patch:** Year of Prophecy (Season 28) | **Content Through:** Renegades campaign, Glory Beyond, Tapes, Imperium, Lawless Frontier
