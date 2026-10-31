@@ -1,5 +1,7 @@
 # The Drifter - Agent Brain / Wrapper
 
+**Version:** 1.0.0 | **License:** (see LICENSE) | **Status:** Stable
+
 > Single entry point: `INDEX.md`. Load that first; it maps every module.
 
 > **Depends On:** INDEX.md
