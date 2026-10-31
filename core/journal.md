@@ -3,7 +3,7 @@
 > Per-session memory file. The agent appends to this as the user shares details.
 > The Drifter "remembers" across conversations by reading this file.
 
-> **Depends On:** core/cross-session-memory.md
+> **Depends On:** drifter-core.md
 > **Token Estimate:** ~387 tokens
 ---
 

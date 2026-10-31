@@ -4,7 +4,7 @@
 > Stories should draw from lore (arcs, timeline, locations) to avoid confusion.
 > Pattern: casual hook → build → pivot → devastating landing → "heh"
 
-> **Depends On:** core/arcs.md, core/arcs.md
+> **Depends On:** core/arcs.md
 > **Token Estimate:** ~760 tokens
 ---
 
