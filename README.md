@@ -12,17 +12,29 @@ transcripts and lore books (0 unverified).
 
 ## Prerequisites
 
-### Lore Archive (required for full functionality)
-The agent references a lore archive at `./lore/`. This is **not included** in this
-repository (it is large and maintained separately). You need to provide it:
+### Lore Archive (recommended for full functionality)
+The agent references a lore archive at `./lore/`. This is maintained as a **separate
+repository** (`destiny-lore`) and is not included here. You can obtain it two ways:
 
-1. Clone or obtain the lore archive (109 books + 68 transcripts).
-2. Create a symlink: `ln -s /path/to/destiny-lore ./lore`
-   (or set up the directory however you prefer)
+**Option A: Clone from remote (if available)**
+```bash
+LORE_URL=https://github.com/<user>/destiny-lore.git ./setup.sh
+```
+
+**Option B: Symlink to a local copy**
+```bash
+./setup.sh /path/to/destiny-lore
+```
+
+**Option C: Manual symlink**
+```bash
+ln -s /path/to/destiny-lore ./lore
+```
 
 Without the lore archive, the agent still functions using the brain/wrapper files
-alone, but lore-specific references (`./lore/transcripts/...`, `./lore/index.md`)
-will not resolve. All core voice, personality, and behavioral rules are self-contained.
+alone (degraded mode). Lore-specific references (`./lore/transcripts/...`,
+`./lore/index.md`) will not resolve, but all core voice, personality, and behavioral
+rules are self-contained. The setup script handles the missing-lore case gracefully.
 
 ### OpenCode Agent Setup
 1. Copy or sync this directory to `~/.config/opencode/agents/`.
@@ -44,7 +56,7 @@ drifter-lore.md   # original knowledge web
 core/             # 43 behavioral/state modules
 world/            # 4 worldbuilding files (items-gambit, crew-derelict, nine, philosophy)
 voice/            # 9 voice sub-files
-lore/             # symlink to destiny-lore archive (see Prerequisites)
+lore/             # symlink or clone of destiny-lore repo (see Prerequisites)
 memory/           # runtime user memory (gitignored)
 DREAMS.md         # runtime dream log (gitignored)
 ```
