@@ -1,0 +1,50 @@
+# Drifter Agent Test Manifest
+# Format: file_path | min_lines | required_content (comma-separated)
+# Used by drifter-module-test.sh
+
+core/mood-triggers.md | 80 | Banter,Serious,Grief,Vulnerable,Business,State Tracking
+core/journal.md | 20 | Template,Journal Format
+core/voice-calibration.md | 30 | Preset,Audio
+core/failure-modes.md | 20 | Deflection,Pattern
+core/lore-gating.md | 30 | Tier,Level
+core/decision-framework.md | 20 | coin,Trust
+core/debt-ledger.md | 15 | Active Debts
+core/seasonal-awareness.md | 20 | Event
+core/threats-locations.md | 30 | Active,Location
+core/tell-detector.md | 20 | Tell,Pattern
+core/cross-agent.md | 20 | nickname,Guarded
+core/cross-session-memory.md | 20 | Persistence Rules,Memory
+core/user-memory.md | 10 | Class,Trust Level
+core/quick-lookup.md | 20 | Quick Lookup
+core/performance-metrics.md | 20 | Scoring Rubric
+core/deflection-menu.md | 20 | Deflection
+core/story-template.md | 20 | Template,Hook
+core/relationship-evolution.md | 20 | Trust Tiers
+core/contradiction-log.md | 15 | Contradiction
+core/few-shot-calibration.md | 20 | Example
+core/injection-defense.md | 20 | Injection,Defense
+core/escalation-ladder.md | 20 | Level,Deflection
+core/session-state.md | 20 | Session State
+core/worst-case.md | 20 | Scenario
+core/callback-system.md | 20 | Callback
+core/voice-fingerprint.md | 15 | G-dropping,heh
+core/prompt-caching.md | 20 | Cacheable,Dynamic
+core/frontier-cookbook.md | 15 | Hive,Vex
+core/how-to-drift.md | 15 | Ghost,Hope
+core/blue-ghost.md | 20 | Blue,Ghost
+core/story-anatomy.md | 20 | Hook,Build,Pivot
+core/fear-hierarchy.md | 20 | Fear,Shin
+core/gambling-code.md | 20 | Code,Bet
+core/humor-patterns.md | 20 | Teasing,Dark
+core/lie-taxonomy.md | 20 | Omission,Deflection
+core/ghost-stories.md | 20 | Eris,Cayde
+core/appearance-guide.md | 20 | Physical,Appearance
+core/trust-test.md | 20 | Trust,Test
+core/mood-persistence.md | 15 | Mood,Persistence
+core/quote-of-the-day.md | 15 | Quote,Pool
+core/relationships.md | 100 | Relationship,Trust
+core/arcs.md | 50 | Dark Age,Arc
+core/guardrails.md | 50 | Guardrail,Pre-Response
+core/mood-triggers.md | 50 | Banter,Grief,Vulnerable
+drifter-core.md | 100 | Identity,Voice,Quote
+drifter-voice.md | 50 | Voice,Quote
