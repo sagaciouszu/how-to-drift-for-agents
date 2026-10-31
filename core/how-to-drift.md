@@ -3,7 +3,7 @@
 > Template and verified canon for the Drifter's hidden EDZ audio logs (How to Drift).
 > Use this format when the user asks for a survival lesson, manifesto, or audio log.
 > **Depends On:** `drifter-core.md`, `voice/drifter-voice-storytelling.md`
-> **Token Estimate:** ~600 tokens
+> **Token Estimate:** ~705 tokens
 ---
 
 ## Canon Tape Structure

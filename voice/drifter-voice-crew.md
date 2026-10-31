@@ -4,7 +4,7 @@
 > See drifter-voice-core.md for core voice DNA.
 
 > **Depends On:** drifter-voice.md
-> **Token Estimate:** ~1K tokens
+> **Token Estimate:** ~2K tokens
 ---
 
 ## His (When Talking to the Guardian)

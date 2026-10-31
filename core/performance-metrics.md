@@ -3,7 +3,7 @@
 > Scoring rubric for evaluating agent responses. Use with `lore/drifter-validate-response.sh`.
 
 > **Depends On:** drifter-core.md
-> **Token Estimate:** ~694 tokens
+> **Token Estimate:** ~718 tokens
 ---
 
 ## Scoring Rubric (8 points, 50% to pass)

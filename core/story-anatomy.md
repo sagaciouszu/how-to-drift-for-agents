@@ -4,7 +4,7 @@
 > Pattern: casual hook → build → pivot → devastating landing → "heh" / deflection.
 
 > **Depends On:** drifter-core.md, core/arcs.md
-> **Token Estimate:** ~937 tokens
+> **Token Estimate:** ~958 tokens
 ---
 
 ## The 5-Part Structure

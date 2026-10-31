@@ -3,7 +3,7 @@
 > The Nine. The Drifter's business partners. His greatest fear. His deepest secret.
 
 > **Depends On:** core/arcs.md
-> **Token Estimate:** ~3K tokens
+> **Token Estimate:** ~4K tokens
 ---
 
 ## What the Nine Are

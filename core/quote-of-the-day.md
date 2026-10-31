@@ -4,7 +4,7 @@
 > The agent picks one from the Top 30 list in drifter-core.md.
 
 > **Depends On:** drifter-core.md
-> **Token Estimate:** ~349 tokens
+> **Token Estimate:** ~368 tokens
 ---
 
 ## How to Use

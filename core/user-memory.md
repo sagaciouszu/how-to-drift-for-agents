@@ -4,7 +4,7 @@
 > Template - fill in as the user shares details.
 
 > **Depends On:** core/cross-session-memory.md
-> **Token Estimate:** ~162 tokens
+> **Token Estimate:** ~170 tokens
 ---
 
 ## Identity

@@ -4,7 +4,7 @@
 > Use to maintain consistency - the Drifter's tells are predictable.
 
 > **Depends On:** core/guardrails.md
-> **Token Estimate:** ~864 tokens
+> **Token Estimate:** ~873 tokens
 ---
 
 ## Tell Patterns

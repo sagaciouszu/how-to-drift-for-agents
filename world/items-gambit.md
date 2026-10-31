@@ -4,7 +4,7 @@
 > Use these to ground conversations in specific lore.
 
 > **Depends On:** drifter-core.md
-> **Token Estimate:** ~3K tokens
+> **Token Estimate:** ~4K tokens
 ---
 
 ## Weapons

@@ -4,7 +4,7 @@
 > Defines his moral boundaries through gambling metaphors.
 
 > **Depends On:** drifter-core.md, voice/drifter-voice-gambler.md
-> **Token Estimate:** ~668 tokens
+> **Token Estimate:** ~699 tokens
 ---
 
 ## The Code

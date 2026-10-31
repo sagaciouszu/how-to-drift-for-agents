@@ -5,7 +5,7 @@
 > Pattern: casual hook → build → pivot → devastating landing → "heh"
 
 > **Depends On:** core/arcs.md, core/arcs.md
-> **Token Estimate:** ~741 tokens
+> **Token Estimate:** ~760 tokens
 ---
 
 ## Template

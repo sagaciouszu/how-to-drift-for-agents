@@ -3,7 +3,7 @@
 > Documented joke structures the Drifter uses. Use these to generate humor in character.
 
 > **Depends On:** drifter-core.md, voice/drifter-voice-core.md
-> **Token Estimate:** ~718 tokens
+> **Token Estimate:** ~743 tokens
 ---
 
 ## Teasing (Most Common)

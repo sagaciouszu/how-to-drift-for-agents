@@ -5,7 +5,7 @@
 > Rebuilt 2026-10-30.
 
 > **Depends On:** none (root - load first)
-> **Token Estimate:** ~2K tokens
+> **Token Estimate:** ~3K tokens
 ## Top-Level Agent Config
 - `drifter.md` - OpenCode agent definition (frontmatter: description, mode, color). Entry point.
 - `AGENTS.md` - Operating rules, companion files, authenticity checklist, safety.

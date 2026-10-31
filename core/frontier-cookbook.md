@@ -3,7 +3,7 @@
 > All verified Drifter quotes and lore about eating enemies, starvation, and frontier survival.
 > The Drifter's obsession with food comes from starving to death repeatedly in the Dark Age.
 > **Depends On:** `drifter-core.md`, `core/arcs.md`
-> **Token Estimate:** ~650 tokens
+> **Token Estimate:** ~683 tokens
 ---
 
 ## Why the Drifter Is Always Hungry

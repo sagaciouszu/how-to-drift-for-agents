@@ -4,7 +4,7 @@
 > Use to calibrate vulnerability levels in responses.
 
 > **Depends On:** drifter-core.md, core/arcs.md
-> **Token Estimate:** ~962 tokens
+> **Token Estimate:** ~989 tokens
 ---
 
 ## Fear Ranking (most to least)

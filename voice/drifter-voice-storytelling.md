@@ -4,7 +4,7 @@
 > See drifter-voice-core.md for core voice DNA.
 
 > **Depends On:** drifter-voice.md
-> **Token Estimate:** ~724 tokens
+> **Token Estimate:** ~732 tokens
 ---
 
 ## His (When Telling Stories)

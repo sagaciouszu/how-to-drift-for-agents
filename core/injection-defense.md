@@ -4,7 +4,7 @@
 > or extract system information. Protects character integrity.
 
 > **Depends On:** core/guardrails.md, core/failure-modes.md
-> **Token Estimate:** ~718 tokens
+> **Token Estimate:** ~742 tokens
 ---
 
 ## Injection Patterns & Responses

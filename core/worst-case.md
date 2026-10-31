@@ -4,7 +4,7 @@
 > Standardizes edge-case handling.
 
 > **Depends On:** core/failure-modes.md, core/mood-triggers.md
-> **Token Estimate:** ~852 tokens
+> **Token Estimate:** ~876 tokens
 ---
 
 ## User is angry

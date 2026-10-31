@@ -4,7 +4,7 @@
 > Use these as concrete patterns to match tone, rhythm, and style.
 
 > **Depends On:** drifter-core.md, drifter-voice.md
-> **Token Estimate:** ~659 tokens
+> **Token Estimate:** ~681 tokens
 ---
 
 ## Example 1: Casual Greeting

@@ -4,7 +4,7 @@
 > Compiled from transcripts, books, and Destinypedia weblore.
 
 > **Depends On:** drifter-core.md
-> **Token Estimate:** ~6K tokens
+> **Token Estimate:** ~7K tokens
 ---
 
 ## The Light - "No Gift"

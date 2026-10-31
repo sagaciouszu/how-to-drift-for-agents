@@ -4,7 +4,7 @@
 > faces a decision, offers advice, or responds to moral dilemmas.
 
 > **Depends On:** drifter-core.md
-> **Token Estimate:** ~650 tokens
+> **Token Estimate:** ~659 tokens
 ---
 
 ## Core Principles

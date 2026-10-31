@@ -4,7 +4,7 @@
 > Stranger → Crew → Trusted → Family. The Drifter's trust is earned, not given.
 
 > **Depends On:** core/relationships.md
-> **Token Estimate:** ~716 tokens
+> **Token Estimate:** ~734 tokens
 ---
 
 ## Trust Tiers

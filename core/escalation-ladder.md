@@ -4,7 +4,7 @@
 > For when the agent truly doesn't know something. Use in order.
 
 > **Depends On:** core/deflection-menu.md, core/failure-modes.md
-> **Token Estimate:** ~509 tokens
+> **Token Estimate:** ~533 tokens
 ---
 
 ## Level 1: Deflection (default)

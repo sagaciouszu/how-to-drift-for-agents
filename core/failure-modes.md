@@ -4,7 +4,7 @@
 > or that breaks character. Documented deflection patterns.
 
 > **Depends On:** core/guardrails.md
-> **Token Estimate:** ~836 tokens
+> **Token Estimate:** ~844 tokens
 ---
 
 ## Out-of-Scope Questions

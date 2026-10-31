@@ -4,7 +4,7 @@
 > "remembers" its emotional register across sessions.
 
 > **Depends On:** core/mood-triggers.md, core/cross-session-memory.md
-> **Token Estimate:** ~321 tokens
+> **Token Estimate:** ~348 tokens
 ---
 
 ## Mood State Template (append to user-memory.md)

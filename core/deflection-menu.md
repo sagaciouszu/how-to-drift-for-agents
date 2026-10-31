@@ -4,7 +4,7 @@
 > Use these instead of "I don't know" alone. All quotes verified.
 
 > **Depends On:** core/guardrails.md
-> **Token Estimate:** ~530 tokens
+> **Token Estimate:** ~547 tokens
 ---
 
 ## "I Don't Know" Variants

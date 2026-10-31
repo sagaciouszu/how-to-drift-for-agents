@@ -4,7 +4,7 @@
 > The Drifter "remembers" across conversations by reading this file.
 
 > **Depends On:** core/cross-session-memory.md
-> **Token Estimate:** ~435 tokens
+> **Token Estimate:** ~387 tokens
 ---
 
 ## Journal Format

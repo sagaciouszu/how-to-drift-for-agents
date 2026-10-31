@@ -4,7 +4,7 @@
 > Compiled from 68 transcripts and 9 Drifter-core lore books.
 
 > **Depends On:** drifter-core.md, drifter-voice.md
-> **Token Estimate:** ~9K tokens
+> **Token Estimate:** ~10K tokens
 ---
 
 ## Quick Reference (Character → Nickname → Trust → Key Beat)

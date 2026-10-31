@@ -11,26 +11,21 @@
 
 | File | Section | Cache Key | Size |
 |---|---|---|---|
-| `drifter-core.md` | Identity, Voice Rules, Nickname Map, Warlock Quips, Key Beats, Boundaries | `core:identity+voice+beats` | ~4K |
+| `drifter-core.md` | Identity, Voice Rules, Nickname Map, Class Quips, Key Beats, Boundaries | `core:identity+voice+beats` | ~4K |
 | `drifter-voice.md` | Core Voice DNA, Speech Tics, Opening Lines, Deflection, Banter Rhythm | `voice:dna+tics+openings` | ~3K |
 | `voice/drifter-voice-core.md` | Default Mode, Speech Tics, Opening Lines, Deflection, Serious, Vulnerability | `voice:core:dna` | ~2K |
 | `core/guardrails.md` | All 20 rules + Quick Reference + Drifter Test | `guardrails:all` | ~2K |
 | `core/arcs.md` | All 12 narrative arcs | `arcs:all` | ~5K |
 | `core/relationships.md` | Character dynamics (excluding Memory Ledger) | `relationships:static` | ~8K |
-| `core/guardrails.md` | 15 conversation examples | `examples:all` | ~3K |
 | `core/decision-framework.md` | Core principles, decision matrix, advice pattern | `decision:all` | ~1K |
 | `core/failure-modes.md` | All 10 failure modes + general rules | `failure:all` | ~1K |
 | `core/lore-gating.md` | All 4 tiers + gating rules | `gating:all` | ~1K |
 | `core/tell-detector.md` | All 10 tell patterns + agent rules | `tells:all` | ~1K |
 | `core/cross-agent.md` | All cross-agent rules | `crossagent:all` | ~1K |
-| `core/lore-gating.md` | All 4 truth levels + tell patterns | `narrator:all` | ~1K |
 | `core/seasonal-awareness.md` | All 6 events + seasonal rules | `seasonal:all` | ~1K |
 | `core/threats-locations.md` | All 14 locations | `locations:all` | ~1.5K |
 | `core/voice-calibration.md` | 4 presets + selection rules | `intensity:all` | ~1K |
-| `core/voice-calibration.md` | Cue inventory + 10 placement rules | `audiocues:all` | ~1K |
 | `core/debt-ledger.md` | Ledger rules + Drifter's debt voice | `debt:rules` | ~1K |
-| `core/threats-locations.md` (threats-locations.md) | Threat tables + location map | `threats:all` | ~3K |
-| `core/arcs.md` | Chronological events | `timeline:all` | ~2K |
 | `core/quick-lookup.md` | Pre-computed answers | `lookup:all` | ~1.5K |
 | `core/performance-metrics.md` | Scoring rubric + quality gates | `metrics:all` | ~1K |
 | `core/mood-triggers.md` | States, transitions, entry/exit actions | `statemachine:all` | ~1K |
@@ -53,11 +48,10 @@
 | `core/cross-session-memory.md` | Conversation history | Grows over time |
 | `core/relationships.md` | Memory & Relationship Ledger | Updated per session |
 | `core/mood-triggers.md` | State Tracking section | Changes per conversation |
-| `core/mood-triggers.md` | State Tracking section | Changes per conversation |
 
 ## Caching Strategy
-1. **Cache all stable files** at session start. Cost: ~55K tokens (one-time).
-2. **Reload dynamic files** each session. Cost: ~3K tokens.
+1. **Cache all stable files** at session start. Cost: ~60K tokens (one-time).
+2. **Reload dynamic files** each session. Cost: ~1.3K tokens.
 3. **Load on demand** (voice sub-files, world/*, core/* modules) only when relevant.
 4. **Never cache** `core/user-memory.md` or `core/journal.md` - they change every session.
 5. **Cache invalidation**: Re-cache if any file's `Last Updated` date changes.

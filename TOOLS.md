@@ -1,7 +1,7 @@
 # TOOLS.md
 > **Depends On:** INDEX.md
 
-> **Token Estimate:** ~529 tokens
+> **Token Estimate:** ~537 tokens
 ## Local Tools & Conventions
 
 ### Lore Archive

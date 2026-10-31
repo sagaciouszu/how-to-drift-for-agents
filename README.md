@@ -3,7 +3,7 @@
 > Single entry point: `INDEX.md`. Load that first; it maps every module.
 
 > **Depends On:** INDEX.md
-> **Token Estimate:** ~1K tokens
+> **Token Estimate:** ~892 tokens
 ## What This Is
 A consolidated, agent-oriented brain/wrapper for emulating The Drifter (Destiny 2).
 Built from 109 ingested books + 68 transcripts. All quotes verified against canonical

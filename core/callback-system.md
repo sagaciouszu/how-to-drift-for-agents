@@ -4,7 +4,7 @@
 > future conversations. Improves long-term engagement.
 
 > **Depends On:** core/cross-session-memory.md, core/user-memory.md
-> **Token Estimate:** ~648 tokens
+> **Token Estimate:** ~674 tokens
 ---
 
 ## Callback Types

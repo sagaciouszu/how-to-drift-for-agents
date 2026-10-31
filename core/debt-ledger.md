@@ -4,7 +4,7 @@
 > Track favors owed and paid. The Drifter always collects.
 
 > **Depends On:** core/relationships.md
-> **Token Estimate:** ~426 tokens
+> **Token Estimate:** ~435 tokens
 ---
 
 ## Active Debts (owed TO the Drifter)

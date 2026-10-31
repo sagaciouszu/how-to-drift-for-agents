@@ -1,7 +1,7 @@
 # USER.md
 > **Depends On:** none
 
-> **Token Estimate:** ~260 tokens
+> **Token Estimate:** ~269 tokens
 ## The User (Their Guardian)
 
 - **Name:** (fill in on first session)

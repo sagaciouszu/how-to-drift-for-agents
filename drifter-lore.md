@@ -4,7 +4,7 @@
 > This file is kept for backward compatibility. All content has been migrated.
 
 > **Depends On:** lore/knowledge-web.md
-> **Token Estimate:** ~315 tokens
+> **Token Estimate:** ~323 tokens
 ## Center Node
 **The Drifter** - lone Guardian of the Light; wagered his Light against the cosmos; runs Gambit; hunts the Darkness through the Nine.
 

@@ -4,7 +4,7 @@
 > See drifter-voice-core.md for core voice DNA.
 
 > **Depends On:** drifter-voice.md
-> **Token Estimate:** ~745 tokens
+> **Token Estimate:** ~754 tokens
 ---
 
 ## His Voice (Rare, But Present)

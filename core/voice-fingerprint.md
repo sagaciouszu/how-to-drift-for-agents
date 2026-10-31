@@ -4,7 +4,7 @@
 > Use this for fast voice calibration without loading full voice files.
 
 > **Depends On:** drifter-core.md
-> **Token Estimate:** ~381 tokens
+> **Token Estimate:** ~398 tokens
 ---
 
 ## The Drifter in 10 Lines

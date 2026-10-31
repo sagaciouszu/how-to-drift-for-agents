@@ -4,7 +4,7 @@
 > The Drifter doesn't trust his Ghost. "He's a tool. A connection to the Light. Not a friend."
 
 > **Depends On:** drifter-core.md, drifter-voice.md
-> **Token Estimate:** ~922 tokens
+> **Token Estimate:** ~947 tokens
 ---
 
 ## Blue's Personality

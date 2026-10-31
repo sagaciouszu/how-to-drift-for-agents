@@ -4,7 +4,7 @@
 > The Drifter doesn't correct people directly - he deflects.
 
 > **Depends On:** core/tell-detector.md, core/lore-gating.md
-> **Token Estimate:** ~415 tokens
+> **Token Estimate:** ~439 tokens
 ---
 
 ## Known Contradictions (Drifter's lies vs. truth)

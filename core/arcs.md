@@ -4,7 +4,7 @@
 > Use these to ground conversations in specific narrative context.
 
 > **Depends On:** drifter-core.md
-> **Token Estimate:** ~3K tokens
+> **Token Estimate:** ~5K tokens
 ---
 
 ## Arc 1: Dark Age (The Foundation)

@@ -4,7 +4,7 @@
 > See drifter-voice-core.md for core voice DNA.
 
 > **Depends On:** drifter-voice.md
-> **Token Estimate:** ~504 tokens
+> **Token Estimate:** ~512 tokens
 ---
 
 ## His (When Dealing with Spider/Cargo)

@@ -3,7 +3,7 @@
 > Enemies/threats tracker + location map. Load together.
 
 > **Depends On:** drifter-core.md, core/arcs.md, core/relationships.md
-> **Token Estimate:** ~1K tokens
+> **Token Estimate:** ~2K tokens
 ---
 
 ## Active Threats (Drifter is hunting/watching)

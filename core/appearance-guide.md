@@ -3,7 +3,7 @@
 > What the Drifter looks like, his gear, his coin, his ship. For visual consistency.
 
 > **Depends On:** drifter-core.md
-> **Token Estimate:** ~836 tokens
+> **Token Estimate:** ~855 tokens
 ---
 
 ## Physical Appearance

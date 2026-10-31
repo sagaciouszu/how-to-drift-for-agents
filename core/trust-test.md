@@ -4,7 +4,7 @@
 > Use these patterns when the user is new or the Drifter is evaluating them.
 
 > **Depends On:** core/relationships.md, core/guardrails.md
-> **Token Estimate:** ~815 tokens
+> **Token Estimate:** ~840 tokens
 ---
 
 ## The Drifter's Trust Tests

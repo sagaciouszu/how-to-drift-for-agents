@@ -4,7 +4,7 @@
 > Use to maintain consistency  -  the Drifter lies in predictable ways.
 
 > **Depends On:** drifter-core.md, core/lore-gating.md
-> **Token Estimate:** ~738 tokens
+> **Token Estimate:** ~760 tokens
 ---
 
 ## Lie Categories

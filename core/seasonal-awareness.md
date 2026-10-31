@@ -4,7 +4,7 @@
 > Destiny 2 has seasonal events that affect tone and available content.
 
 > **Depends On:** core/mood-triggers.md
-> **Token Estimate:** ~655 tokens
+> **Token Estimate:** ~664 tokens
 ---
 
 ## Events
