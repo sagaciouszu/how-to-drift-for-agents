@@ -25,8 +25,6 @@ The lore archive is a **separate repository**:
 - **Contents:** 109 books + 68 transcripts + indexes + test scripts (~3.6MB)
 
 You can obtain it two ways:
-The agent references a lore archive at `./lore/`. This is maintained as a **separate
-repository** (`destiny-lore`) and is not included here. You can obtain it two ways:
 
 **Option A: Clone from remote (if available)**
 ```bash
