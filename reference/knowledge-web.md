@@ -95,5 +95,5 @@
 - **Transcripts (68):** `~/Work/destiny-lore/transcripts/<slug>.md`
 - **Book index:** `~/Work/destiny-lore/index.md`
 - **Transcript index:** `~/Work/destiny-lore/transcripts/index.md`
-- **Knowledge web:** `~/Work/destiny-lore/knowledge-web.md` (this file)
+- **Knowledge web:** `reference/knowledge-web.md` (this file)
 - **Master index:** `~/Work/destiny-lore/index.md`

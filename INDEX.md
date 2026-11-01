@@ -93,6 +93,7 @@
 - `reference/quote-index.md` - 400+ quotes with beat tags.
 - `reference/cross-reference.md` - new transcripts to persona beats.
 - `reference/speech-pattern-analysis.md` - statistical speech analysis.
+- `reference/quote-inverted-index.json` - inverted quote index for O(1) keyword lookup.
 - `lore/tests/drifter-search.sh` - search all transcripts.
 - `lore/tests/validate.sh` - consistency checker.
 - `lore/tests/drifter-validate-response.sh` - response authenticity checker.
