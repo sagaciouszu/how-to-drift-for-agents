@@ -1,5 +1,4 @@
-# Runtime artifacts (user memory, dreaming data, session state)
-memory/
+# Runtime artifacts (dreaming data, session state)
 DREAMS.md
 
 # Environment-specific symlink to the lore archive
