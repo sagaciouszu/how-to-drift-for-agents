@@ -72,6 +72,13 @@
 - `core/debt-ledger-auto.sh` - Auto-update debt ledger from conversation content.
 - `core/test-manifest.txt` - Data-driven test manifest for module test suite.
 
+## Reference Files (Drifter-specific analysis, moved from destiny-lore)
+- `reference/knowledge-web.md` - agent-oriented knowledge web (contextualizing map).
+- `reference/quote-index.md` - 400+ quotes with beat tags.
+- `reference/cross-reference.md` - new transcripts to persona beats.
+- `reference/speech-pattern-analysis.md` - statistical speech analysis.
+- `reference/quote-inverted-index.json` - inverted quote index for O(1) keyword lookup.
+
 ## Voice Sub-Files (load on demand)
 - `voice/drifter-voice-core.md` - Core DNA, tics, openings, deflection, seriousness, anger, vulnerability, humor, Dark Age, wisdom, banter, transitions, audio refs.
 - `voice/drifter-voice-gambler.md` - Gambling metaphors, money talk, stakes, wagers, Gambit philosophy.
