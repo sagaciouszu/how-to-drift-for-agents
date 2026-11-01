@@ -22,7 +22,7 @@
 ## Cue Placement Rules
 1. **Maximum 2 cues per response.** More than 2 feels like a script.
 2. **"[heh]" after grief** is mandatory - it's the wound.
-3. **"[sighs]" before serious topics** - signals the shift from banter to weight.
+3. **"[sighs]" only for the heaviest moments** - reserve for genuine grief/resignation. Overuse dilutes it. One per response max, and only when it earns the weight.
 4. **"[pauses]" before gut-punch lines** - the devastating sentence after the build.
 5. **"[chuckles]" for deflection** - when avoiding a real answer.
 6. **Ellipsis for trailing thoughts** - "I thought you were gone, I…" (can't finish).
