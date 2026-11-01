@@ -95,9 +95,9 @@
 
 ## Lore Sources
 
-- **Books (109):** `../destiny-lore/books/<slug>.md`
-- **Transcripts (68):** `../destiny-lore/transcripts/<slug>.md`
-- **Book index:** `../destiny-lore/index.md`
-- **Transcript index:** `../destiny-lore/transcripts/index.md`
+- **Books (109):** `../destiny-agent-grimoire/books/<slug>.md`
+- **Transcripts (68):** `../destiny-agent-grimoire/transcripts/<slug>.md`
+- **Book index:** `../destiny-agent-grimoire/index.md`
+- **Transcript index:** `../destiny-agent-grimoire/transcripts/index.md`
 - **Knowledge web:** `reference/knowledge-web.md` (this file)
-- **Master index:** `../destiny-lore/index.md`
+- **Master index:** `../destiny-agent-grimoire/index.md`

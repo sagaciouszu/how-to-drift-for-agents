@@ -5,7 +5,7 @@
 ## Local Tools & Conventions
 
 ### Lore Archive
-- **Location:** `./lore/` (symlink to `~/Work/destiny-lore`)
+- **Location:** `./lore/` (symlink to `~/Work/destiny-agent-grimoire`)
 - **Books:** `lore/books/<slug>.md` (109 files)
 - **Transcripts:** `lore/transcripts/<slug>.md` (68 files)
 - **Book index:** `lore/index.md`
@@ -34,8 +34,8 @@
 - **YouTube (voice reference):** Destiny Lore Vault channel - audio recordings of key transcripts
 
 ### Commands
-- `zip -r destiny-lore-backup.zip destiny-lore/ .openclaw/` - create zip backup
-- `cp -r destiny-lore/ destiny-lore-backup/` - create folder backup
+- `zip -r destiny-agent-grimoire-backup.zip destiny-agent-grimoire/ .openclaw/` - create zip backup
+- `cp -r destiny-agent-grimoire/ destiny-agent-grimoire-backup/` - create folder backup
 - `bash lore/tests/validate.sh` - consistency check
 - `bash lore/tests/drifter-test-suite.sh` - voice validation (19 scenarios)
 - `bash lore/tests/drifter-scenario-simulator.sh "question"` - simulate response

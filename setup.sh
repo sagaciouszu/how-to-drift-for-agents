@@ -5,7 +5,7 @@
 set -e
 
 WORKSPACE="$(cd "$(dirname "$0")" && pwd)"
-LORE_URL="${LORE_URL:-https://github.com/sagaciouszu/destiny-lore.git}"
+LORE_URL="${LORE_URL:-https://github.com/sagaciouszu/destiny-agent-grimoire.git}"
 LORE_PATH="${1:-}"
 
 echo "=== Drifter Agent Setup ==="
@@ -30,13 +30,13 @@ else
         echo "The lore archive is required for full functionality."
         echo ""
         echo "Option 1: Clone from a remote repository:"
-        echo "  LORE_URL=https://github.com/sagaciouszu/destiny-lore.git ./setup.sh"
+        echo "  LORE_URL=https://github.com/sagaciouszu/destiny-agent-grimoire.git ./setup.sh"
         echo ""
         echo "Option 2: Symlink to a local copy:"
-        echo "  ./setup.sh /path/to/destiny-lore"
+        echo "  ./setup.sh /path/to/destiny-agent-grimoire"
         echo ""
         echo "Option 3: Create the symlink manually:"
-        echo "  ln -s /path/to/destiny-lore $WORKSPACE/lore"
+        echo "  ln -s /path/to/destiny-agent-grimoire $WORKSPACE/lore"
         echo ""
         echo "Without the lore archive, the agent still functions in degraded mode"
         echo "(core voice, personality, and behavioral rules are self-contained)."

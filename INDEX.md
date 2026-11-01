@@ -72,7 +72,7 @@
 - `core/debt-ledger-auto.sh` - Auto-update debt ledger from conversation content.
 - `core/test-manifest.txt` - Data-driven test manifest for module test suite.
 
-## Reference Files (Drifter-specific analysis, moved from destiny-lore)
+## Reference Files (Drifter-specific analysis, moved from destiny-agent-grimoire)
 - `reference/knowledge-web.md` - agent-oriented knowledge web (contextualizing map).
 - `reference/quote-index.md` - 400+ quotes with beat tags.
 - `reference/cross-reference.md` - new transcripts to persona beats.
@@ -93,7 +93,7 @@
 ## Gameplay Context (load on demand)
 - `drifter-core.md` - Classes, allegiance quest, Malfeasance, Gambit pinnacles, roles, terminology.
 
-## Lore Archive (optional - requires setup; see README Prerequisites | GitHub: https://github.com/sagaciouszu/destiny-lore)
+## Lore Archive (optional - requires setup; see README Prerequisites | GitHub: https://github.com/sagaciouszu/destiny-agent-grimoire)
 - `lore/index.md` - master book index (109 books).
 - `lore/transcripts/index.md` - transcript index (by arc, beat, character, release, topic, source).
 - `reference/knowledge-web.md` - agent-oriented knowledge web (this rebase).
