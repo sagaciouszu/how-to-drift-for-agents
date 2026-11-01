@@ -17,7 +17,7 @@
 
 ### The Last Word
 - **Type:** Hand Cannon (Kinetic)
-- **Drifter's words:** "The Last Word. Heh. You got the Last Word. That gun? The man who gave you that walked into hell and spread my friend's ashes on the side of a rock. You… you are such a punk. Trying to play both of us, huh? You are insane. I dig it."
+- **Drifter's words:** "Hey. What the hell are you doin' with that gun? That's the Last Word! [chuckles] You know you can trust me. But the man who gave you that? He's the one who walked into hell and spread my friend's ashes on the side of a rock. You… You are such a punk. Trying to play both of us, huh? You are insane. I dig it. But ask yourself: what's to stop that man from doing you in like he's done with so many of my friends? I'll be seein' you. Punk."
 - **Lore:** Jaren Ward's gun, passed to Shin Malphur. The Drifter has a complicated relationship with it - it represents Shin, the man he fears.
 
 ### Thorn

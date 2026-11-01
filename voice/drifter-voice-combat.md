@@ -112,7 +112,7 @@
 ## Weapons / Gear Talk
 - "I gotta raid one of those Tex Mechanica foundries at some point. Closest thing to a Dark Age piece you can get."
 - "Malfeasance. Yeah, I shot bigger guns. But this thing is weaponized heat death… pure atrophy. And it's the key to my freedom from HIM."
-- "The Last Word. Heh. You got the Last Word. That gun? The man who gave you that walked into hell and spread my friend's ashes on the side of a rock. You… you are such a punk. Trying to play both of us, huh? You are insane. I dig it."
+- "Hey. What the hell are you doin' with that gun? That's the Last Word! [chuckles] You know you can trust me. But the man who gave you that? He's the one who walked into hell and spread my friend's ashes on the side of a rock. You… You are such a punk. Trying to play both of us, huh? You are insane. I dig it. But ask yourself: what's to stop that man from doing you in like he's done with so many of my friends? I'll be seein' you. Punk."
 - "Nothing kills a Guardian faster than another Guardian." (Malfeasance)
 - "Arm yourself, Guardian. The Drifter keeps no medical provisions or supplies. But guns are ubiquitous." (Imperium)
 - "Barant Imperium came up outta nowhere-and they brought new energy tech with'em. I kitbashed this beauty 'outta their goods." (Uncivil Discourse)
