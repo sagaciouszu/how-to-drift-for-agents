@@ -3,6 +3,9 @@
 > **Depends On:** none (version tracking)
 > **Token Estimate:** ~300 tokens
 
+## v0.2.1 (2026-11-01)
+- Patch: corrective pass (unquoted unverified strings, fixed merged Nine dialogue, setup.sh path precedence, index/version counts, loading tiers)
+
 ## v0.2.0 (2026-10-31)
 - Minor version bump: voice scorer 98.1, scenario sim 88%, tape gen 92%+
 - CI pipeline (25 checks), all passing
