@@ -72,9 +72,6 @@
 - `core/debt-ledger-auto.sh` - Auto-update debt ledger from conversation content.
 - `core/test-manifest.txt` - Data-driven test manifest for module test suite.
 
-## Version Tracking
-- `VERSION.md` - version history (0.0.1 -> 0.2.0).
-
 ## Reference Files (Drifter-specific analysis, moved from destiny-lore)
 - `reference/knowledge-web.md` - agent-oriented knowledge web (contextualizing map).
 - `reference/quote-index.md` - 400+ quotes with beat tags.
