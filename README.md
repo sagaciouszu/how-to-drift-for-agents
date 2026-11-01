@@ -6,7 +6,8 @@
   <img src='https://img.shields.io/badge/license-MIT-green' alt='License'/>
   <img src='https://img.shields.io/badge/quotes-473%20verified-orange' alt='Quotes'/>
   <img src='https://img.shields.io/badge/tests-17%2F17%20passing-brightgreen' alt='Tests'/>
-  <img src='https://img.shields.io/badge/made%20with-Love-red' alt='Made with Love'/>
+  <img src='https://img.shields.io/badge/Made%20with-Motes-00FF00' alt='Made with Motes'/>
+  <img src='https://img.shields.io/badge/Made%20with-Strand-5cdd76' alt='Made with Strand'/>
 </p>
 
 <p align="center">
