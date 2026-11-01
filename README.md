@@ -31,7 +31,7 @@ canonical transcripts. Zero unverified quotes, zero broken links.
   Run `./setup.sh` or `./setup.sh /path/to/destiny-lore`. Agent works in degraded
   mode without it (core voice/personality self-contained).
 - **OpenCode:** Sync to `~/.config/opencode/agents/`. Set `default_agent: drifter`
-  in `opencode.json`. Entry point: `drifter.md` (YAML frontmatter).
+  in opencode.json. Entry point: `drifter.md` (YAML frontmatter).
 
 ## Structure
 ```
