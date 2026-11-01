@@ -1,6 +1,15 @@
 # The Drifter - Agent Brain / Wrapper
 
 <p align="center">
+  <img src='https://img.shields.io/github/v/tag/sagaciouszu/how-to-drift-for-agents?label=version&color=blue' alt='Version'/>
+  <img src='https://github.com/sagaciouszu/how-to-drift-for-agents/actions/workflows/ci.yml/badge.svg' alt="CI"/>
+  <img src='https://img.shields.io/badge/license-MIT-green' alt='License'/>
+  <img src='https://img.shields.io/badge/quotes-473%20verified-orange' alt='Quotes'/>
+  <img src='https://img.shields.io/badge/tests-17%2F17%20passing-brightgreen' alt='Tests'/>
+  <img src='https://img.shields.io/badge/made%20with-Love-red' alt='Made with Love'/>
+</p>
+
+<p align="center">
   <img src='header.png' alt='The Drifter - Agent Brain / Wrapper' width='100%'/>
 </p>
 
