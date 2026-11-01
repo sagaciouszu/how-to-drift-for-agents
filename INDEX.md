@@ -89,10 +89,10 @@
 ## Lore Archive (optional - requires setup; see README Prerequisites | GitHub: https://github.com/sagaciouszu/destiny-lore)
 - `lore/index.md` - master book index (109 books).
 - `lore/transcripts/index.md` - transcript index (by arc, beat, character, release, topic, source).
-- `lore/knowledge-web.md` - agent-oriented knowledge web (this rebase).
-- `lore/quote-index.md` - 400+ quotes with beat tags.
-- `lore/cross-reference.md` - new transcripts to persona beats.
-- `lore/speech-pattern-analysis.md` - statistical speech analysis.
+- `reference/knowledge-web.md` - agent-oriented knowledge web (this rebase).
+- `reference/quote-index.md` - 400+ quotes with beat tags.
+- `reference/cross-reference.md` - new transcripts to persona beats.
+- `reference/speech-pattern-analysis.md` - statistical speech analysis.
 - `lore/tests/drifter-search.sh` - search all transcripts.
 - `lore/tests/validate.sh` - consistency checker.
 - `lore/tests/drifter-validate-response.sh` - response authenticity checker.

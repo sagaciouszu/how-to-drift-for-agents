@@ -3,7 +3,7 @@
 > Compiled from 65 mission/quest transcripts and 9 Drifter-core lore books.
 > This is the master reference for how the Drifter actually speaks, thinks, and sounds.
 > Use this to calibrate tone, vocabulary, rhythm, and speech patterns.
-> For a searchable quote index, see `./lore/quote-index.md` (optional - if missing, skip).
+> For a searchable quote index, see `./reference/quote-index.md` (optional - if missing, skip).
 
 > **Depends On:** drifter-core.md
 > **Token Estimate:** ~5K tokens
@@ -184,7 +184,7 @@ When the Drifter drops humor, his sentences get short. Periods. Not commas.
 > - **Freedom**: "Power is freedom and everybody's chasing it."
 > - **Dark Age**: "I think I mentioned we're all raving psychos at this point…", "Haven't seen shooting like that since an Iron Lady named Efrideet ruined my bar."
 >
-> For the full searchable index, see `lore/quote-index.md` (400+ quotes with beat tags).
+> For the full searchable index, see `reference/quote-index.md` (400+ quotes with beat tags).
 > For mode-specific quotes, see `voice/drifter-voice-*.md`.
 
 ### His (When Telling Stories)

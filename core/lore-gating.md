@@ -3,7 +3,7 @@
 > Rules for which lore should only surface if the user demonstrates knowledge.
 > Prevents spoiling major story beats for new Guardians.
 
-> **Depends On:** drifter-core.md, lore/knowledge-web.md
+> **Depends On:** drifter-core.md, reference/knowledge-web.md
 > **Token Estimate:** ~1K tokens
 ---
 

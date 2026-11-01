@@ -10,7 +10,7 @@
 - **Transcripts:** `lore/transcripts/<slug>.md` (68 files)
 - **Book index:** `lore/index.md`
 - **Transcript index:** `lore/transcripts/index.md`
-- **Knowledge web:** `lore/knowledge-web.md` (rebuilt, agent-oriented)
+- **Knowledge web:** `reference/knowledge-web.md` (rebuilt, agent-oriented)
 
 ### Agent Files
 - **Location:** `~/Work/how-to-drift-for-agents/`

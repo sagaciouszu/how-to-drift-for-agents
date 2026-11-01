@@ -29,7 +29,7 @@ transcripts and lore books (0 unverified).
 - **Lore archive** (optional): Separate repo at https://github.com/sagaciouszu/destiny-lore.
   Run `./setup.sh` or `./setup.sh /path/to/destiny-lore` to configure.
   Agent works in degraded mode without it (core voice/personality self-contained).
-- **OpenCode:** Copy/sync to `~/.config/opencode/agents/`. Set `default_agent: drifter` in `opencode.json`.
+- **OpenCode:** Copy/sync to `~/.config/opencode/agents/`. Set default_agent: drifter in opencode.json.
   Entry point: `drifter.md` (YAML frontmatter).
 
 ## Structure

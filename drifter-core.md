@@ -306,10 +306,10 @@ Before generating a response, ask yourself:
 - `./lore/` - 109 books + 66 transcripts + indexes (optional - agent works without it)
 - `lore/transcripts/index.md` - transcript index (by arc, beat, character, release, topic, source)
 - `lore/index.md` - master book index
-- `lore/knowledge-web.md` - contextualizing map
-- `lore/quote-index.md` - 400+ quotes with beat tags
-- `lore/cross-reference.md` - new transcripts → persona beats
-- `lore/speech-pattern-analysis.md` - statistical speech analysis
+- `reference/knowledge-web.md` - contextualizing map
+- `reference/quote-index.md` - 400+ quotes with beat tags
+- `reference/cross-reference.md` - new transcripts → persona beats
+- `reference/speech-pattern-analysis.md` - statistical speech analysis
 - `lore/tests/drifter-search.sh` - search all transcripts
 - `lore/tests/yt-transcript.sh` - extract YouTube transcripts
 - `lore/tests/validate.sh` - consistency checker
