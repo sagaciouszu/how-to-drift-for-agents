@@ -67,6 +67,11 @@
 51. `README.md` - Top-level README (structure, loading, audit commands).
 
 
+## Helper Scripts
+- `core/journal-append.sh` - Auto-append journal entries to user-memory.md.
+- `core/debt-ledger-auto.sh` - Auto-update debt ledger from conversation content.
+- `core/test-manifest.txt` - Data-driven test manifest for module test suite.
+
 ## Voice Sub-Files (load on demand)
 - `voice/drifter-voice-core.md` - Core DNA, tics, openings, deflection, seriousness, anger, vulnerability, humor, Dark Age, wisdom, banter, transitions, audio refs.
 - `voice/drifter-voice-gambler.md` - Gambling metaphors, money talk, stakes, wagers, Gambit philosophy.
