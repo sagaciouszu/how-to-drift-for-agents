@@ -93,36 +93,36 @@
 - `lore/quote-index.md` - 400+ quotes with beat tags.
 - `lore/cross-reference.md` - new transcripts to persona beats.
 - `lore/speech-pattern-analysis.md` - statistical speech analysis.
-- `lore/drifter-search.sh` - search all transcripts.
-- `lore/validate.sh` - consistency checker.
-- `lore/drifter-validate-response.sh` - response authenticity checker.
-- `lore/drifter-quote-lookup.sh` - fast quote lookup.
-- `lore/drifter-pre-response.sh` - pre-response validation pipeline.
-- `lore/drifter-coin.sh` - coin flip decision maker.
-- `lore/drifter-story-generator.sh` - story generator (draws from lore).
-- `lore/drifter-conflict-check.sh` - contradiction scanner.
-- `lore/drifter-freshness-check.sh` - lore staleness checker.
-- `lore/drifter-xref-validate.sh` - cross-reference validator.
-- `lore/drifter-voice-consistency.sh` - voice pattern checker.
-- `lore/drifter-lore-ingest.sh` - lore scraping tool.
-- `lore/drifter-voice-scorer.py` - statistical n-gram voice similarity scorer (0-100).
-- `lore/drifter-multiturn-test.sh` - 10-turn emotional arc & callback test suite.
-- `lore/drifter-tape-generator.sh` - "How to Drift" survival tape generator.
-- `lore/drifter-gambit-sim.sh` - optional Gambit match simulator (--auto or interactive).
-- `lore/drifter-master-audit.sh` - unified master audit runner (10 suites).
-- `lore/drifter-conflict-check.sh` - contradiction scanner.
-- `lore/drifter-freshness-check.sh` - lore staleness checker.
-- `lore/drifter-xref-validate.sh` - cross-reference validator.
-- `lore/drifter-voice-consistency.sh` - voice pattern checker.
-- `lore/drifter-coin.sh` - coin flip decision maker.
-- `lore/drifter-story-generator.sh` - story generator (draws from lore).
-- `lore/drifter-quote-verify.sh` - automated quote verification.
-- `lore/drifter-voice-scorer.py` - statistical n-gram voice similarity scorer (0-100).
-- `lore/drifter-multiturn-test.sh` - 10-turn emotional arc & callback test suite.
-- `lore/drifter-tape-generator.sh` - How to Drift survival tape generator.
-- `lore/drifter-gambit-sim.sh` - optional Gambit match simulator (`--auto` or interactive).
-- `lore/drifter-master-audit.sh` - unified master audit runner (10 suites).
-- `lore/yt-transcript.sh` / `lore/yt-batch.sh` - YouTube transcript extraction.
+- `lore/tests/drifter-search.sh` - search all transcripts.
+- `lore/tests/validate.sh` - consistency checker.
+- `lore/tests/drifter-validate-response.sh` - response authenticity checker.
+- `lore/tests/drifter-quote-lookup.sh` - fast quote lookup.
+- `lore/tests/drifter-pre-response.sh` - pre-response validation pipeline.
+- `lore/tests/drifter-coin.sh` - coin flip decision maker.
+- `lore/tests/drifter-story-generator.sh` - story generator (draws from lore).
+- `lore/tests/drifter-conflict-check.sh` - contradiction scanner.
+- `lore/tests/drifter-freshness-check.sh` - lore staleness checker.
+- `lore/tests/drifter-xref-validate.sh` - cross-reference validator.
+- `lore/tests/drifter-voice-consistency.sh` - voice pattern checker.
+- `lore/tests/drifter-lore-ingest.sh` - lore scraping tool.
+- `lore/tests/drifter-voice-scorer.py` - statistical n-gram voice similarity scorer (0-100).
+- `lore/tests/drifter-multiturn-test.sh` - 10-turn emotional arc & callback test suite.
+- `lore/tests/drifter-tape-generator.sh` - "How to Drift" survival tape generator.
+- `lore/tests/drifter-gambit-sim.sh` - optional Gambit match simulator (--auto or interactive).
+- `lore/drifter-master-audit.sh` - unified master audit runner (17 suites).
+- `lore/tests/drifter-conflict-check.sh` - contradiction scanner.
+- `lore/tests/drifter-freshness-check.sh` - lore staleness checker.
+- `lore/tests/drifter-xref-validate.sh` - cross-reference validator.
+- `lore/tests/drifter-voice-consistency.sh` - voice pattern checker.
+- `lore/tests/drifter-coin.sh` - coin flip decision maker.
+- `lore/tests/drifter-story-generator.sh` - story generator (draws from lore).
+- `lore/tests/drifter-quote-verify.sh` - automated quote verification.
+- `lore/tests/drifter-voice-scorer.py` - statistical n-gram voice similarity scorer (0-100).
+- `lore/tests/drifter-multiturn-test.sh` - 10-turn emotional arc & callback test suite.
+- `lore/tests/drifter-tape-generator.sh` - How to Drift survival tape generator.
+- `lore/tests/drifter-gambit-sim.sh` - optional Gambit match simulator (`--auto` or interactive).
+- `lore/drifter-master-audit.sh` - unified master audit runner (17 suites).
+- `lore/tests/yt-transcript.sh` / `lore/tests/yt-batch.sh` - YouTube transcript extraction.
 
 ## Context Window Budget Guide
 

@@ -310,10 +310,10 @@ Before generating a response, ask yourself:
 - `lore/quote-index.md` - 400+ quotes with beat tags
 - `lore/cross-reference.md` - new transcripts → persona beats
 - `lore/speech-pattern-analysis.md` - statistical speech analysis
-- `lore/drifter-search.sh` - search all transcripts
-- `lore/yt-transcript.sh` - extract YouTube transcripts
-- `lore/validate.sh` - consistency checker
-- `lore/drifter-validate-response.sh` - response authenticity checker
+- `lore/tests/drifter-search.sh` - search all transcripts
+- `lore/tests/yt-transcript.sh` - extract YouTube transcripts
+- `lore/tests/validate.sh` - consistency checker
+- `lore/tests/drifter-validate-response.sh` - response authenticity checker
 
 ## Last Scrape
 - **Date:** 2026-10-30

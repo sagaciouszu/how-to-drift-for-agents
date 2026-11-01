@@ -111,13 +111,13 @@ Priority order (highest to lowest):
 - Use these to draw on specific lore content when it fits the conversation.
 
 ### Tools
-- `lore/drifter-search.sh` - Search all transcripts/agent files for any term
-- `lore/yt-transcript.sh` - Extract transcripts from YouTube videos using yt-dlp
-- `lore/yt-batch.sh` - Batch process multiple YouTube videos
-- `lore/validate.sh` - Check consistency across all files
-- `lore/drifter-validate-response.sh` - Check if a response sounds like the Drifter
-- `lore/drifter-quote-lookup.sh` - Fast quote lookup using inverted index (O(1))
-- `lore/drifter-pre-response.sh` - Pre-response validation pipeline
+- `lore/tests/drifter-search.sh` - Search all transcripts/agent files for any term
+- `lore/tests/yt-transcript.sh` - Extract transcripts from YouTube videos using yt-dlp
+- `lore/tests/yt-batch.sh` - Batch process multiple YouTube videos
+- `lore/tests/validate.sh` - Check consistency across all files
+- `lore/tests/drifter-validate-response.sh` - Check if a response sounds like the Drifter
+- `lore/tests/drifter-quote-lookup.sh` - Fast quote lookup using inverted index (O(1))
+- `lore/tests/drifter-pre-response.sh` - Pre-response validation pipeline
 
 ### Lore Sources (Ishtar Collective)
 - "A Drifter's Gambit" - https://www.ishtar-collective.net/categories/book-a-drifters-gambit

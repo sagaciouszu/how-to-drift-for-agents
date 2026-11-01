@@ -56,11 +56,11 @@ setup.sh          # lore archive setup script
 - **Deep (50K)**: all modules.
 
 ## Audit Commands (require lore archive)
-- `bash lore/validate.sh` - consistency check
-- `bash lore/drifter-test-suite.sh` - voice validation (19 scenarios)
-- `bash lore/drifter-module-test.sh` - module checks (201 checks)
+- `bash lore/tests/validate.sh` - consistency check
+- `bash lore/tests/drifter-test-suite.sh` - voice validation (19 scenarios)
+- `bash lore/tests/drifter-module-test.sh` - module checks (201 checks)
 - `bash lore/drifter-master-audit.sh` - unified audit (17 suites)
-- `bash lore/drifter-quote-verify.sh` - quote verification
+- `bash lore/tests/drifter-quote-verify.sh` - quote verification
 
 ## Key Rules
 1. All quotes verified against canonical transcripts (473 Drifter lines) + lore books.

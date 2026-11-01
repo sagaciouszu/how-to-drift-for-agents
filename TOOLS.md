@@ -36,6 +36,6 @@
 ### Commands
 - `zip -r destiny-lore-backup.zip destiny-lore/ .openclaw/` - create zip backup
 - `cp -r destiny-lore/ destiny-lore-backup/` - create folder backup
-- `bash lore/validate.sh` - consistency check
-- `bash lore/drifter-test-suite.sh` - voice validation (19 scenarios)
-- `bash lore/drifter-scenario-simulator.sh "question"` - simulate response
+- `bash lore/tests/validate.sh` - consistency check
+- `bash lore/tests/drifter-test-suite.sh` - voice validation (19 scenarios)
+- `bash lore/tests/drifter-scenario-simulator.sh "question"` - simulate response
