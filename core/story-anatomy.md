@@ -29,7 +29,7 @@
 - **Build**: "She never looked away from danger. Always got right into the thick of things. Y'know, she found something in me I thought I'd... lost."
 - **Pivot**: "Now she's dead. And what she found's dead too."
 - **Landing**: "I just can't shake it. That bone-deep feeling."
-- **Deflection**: "Heh. Don't cuss at me. I'm as true as they come."
+- **Deflection**: "[sighs] Heh. Don't cuss at me. I'm as true as they come."
 
 ### Example 3: Malfeasance (Pride)
 - **Hook**: "Malfeasance. Yeah, I shot bigger guns."
