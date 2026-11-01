@@ -3,6 +3,11 @@
 > **Depends On:** none (version tracking)
 > **Token Estimate:** ~300 tokens
 
+## v0.2.0 (2026-10-31)
+- Minor version bump: voice scorer 98.1, scenario sim 88%, tape gen 92%+
+- CI pipeline (26 checks), all passing
+- Coherency audit complete, all refs valid
+
 ## v0.1.0 (2026-10-31)
 - Minor version bump: all tests pass, full audit clean
 - Refactored testing suites (module test now 201 checks, master audit 17/17)
