@@ -4,6 +4,10 @@
 > Total: 400+ quotes across all sources.
 
 ## Voice / Catchphrases
+
+> **Depends On:** drifter-core.md, drifter-voice.md
+> **Token Estimate:** ~8K tokens
+
 - "I dig it." → Voice
 
 - "I'll be seein' you, punk." → Voice (dropped; not used for user)

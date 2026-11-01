@@ -3,6 +3,10 @@
 > Statistical analysis of the Drifter's speech patterns across all sources.
 > Use this to calibrate authentic Drifter voice generation.
 
+
+> **Depends On:** drifter-voice.md
+> **Token Estimate:** ~5K tokens
+
 ---
 
 ## Sentence Structure
