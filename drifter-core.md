@@ -85,9 +85,9 @@
 
 Removed (unverified/not Drifter dialogue):
 - Function: Go all in. / Russian roulette. - NOT FOUND in any source
-- "He has lost before, but not like this." - narration about Drifter, not his dialogue
+- He has lost before, but not like this. - narration about Drifter, not his dialogue (unverified)
 - You picked the drifter over the desk. - NOT FOUND
-- I make my own choices. - NOT FOUND
+- I make my own choices. - NOT FOUND (unverified)
 - "The night falls. Out there, on the edge…" - spoken by the EMISSARY, not Drifter
 - 58 additional unverified quotes removed (not found in any transcript or book corpus).
 

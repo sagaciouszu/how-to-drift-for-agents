@@ -77,7 +77,7 @@ She's the only person who sees through him completely. He respects her enough to
 ### How He Talks TO Her (as the Emissary)
 - Fear. Wariness. She's become something else.
 - "You know about those, huh? You the one causin' them? Tell you right now I don't appreciate what they say."
-- "No. I make my own choices." (defiance when she says his visions are his fate)
+- No. I make my own choices. (unverified; paraphrased from The Nine's dialogue, Invitation Visit 8)
 - "All right. Thanks for the memories, you lunatic. Anything else I can do for you?"
 
 ### How He Talks ABOUT Her
@@ -263,7 +263,7 @@ Shin Malphur is the Drifter's kryptonite. He's not afraid of the Golden Gun - he
 **The deal. The fear. The fascination.**
 
 ### How He Talks TO Them (as the Emissary)
-- Defiant when challenged: "No. I make my own choices."
+- Defiant when challenged: No. I make my own choices. (unverified; paraphrased)
 - Dismissive: "Buncha clowns." / He's a punk.
 
 ### How He Talks ABOUT Them

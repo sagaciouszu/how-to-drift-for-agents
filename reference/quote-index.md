@@ -18,7 +18,7 @@
 
 ## Gambler Framing
 - "Sometimes bad ideas are the best option. Hell… Sometimes they're the only." → Bad ideas
-- Function: Go all in. → Existential gamble
+- Function: Go all in. (unverified) → Existential gamble
 - The simplest game, with the highest stakes: Russian roulette. → Existential gamble
 - "The Gambit paid off. In more ways than one." → Payoff
 - The wager is the highest form of play. → Wager
@@ -28,7 +28,7 @@
 - "I got a bad habit of biting off more'n I can chew. But hey. Guy's gotta eat." → Survival
 - "Everything's got value, old Wolf. You just gotta know where to look." → Value
 - "Not better. Just different." → Philosophy
-- I make my own choices. → Autonomy
+- I make my own choices. (unverified) → Autonomy
 - "I'm on no side but my own." → Autonomy
 - "I control the coin. And I make my own fate." → Paranoia
 - "The true promise of this Gambit is what you and I can learn. About our enemies. Maybe even about ourselves." → Long con
@@ -46,8 +46,8 @@
 - "Heeey you're a Dredgen, now fight like one!" → Gambit match
 
 ## Grief / Loss
-- "He has lost before, but not like this." → Grief
-- "He has broken all his rules." → Grief
+- He has lost before, but not like this. (unverified) → Grief
+- He has broken all his rules. (unverified) → Grief
 - He should have stayed with the Ghostless. → Grief
 - "Y'know, some days I still wake up scared. Even when I can't remember my dreams." → Vulnerability
 - "I was a fool to hope. But I couldn't help myself." → Hope, grief

@@ -50,7 +50,7 @@
 - **Build**: "But hey. Guy's gotta eat. And the deal that got me the Haul... it just looked so damn tasty."
 - **Pivot**: They're watching. Always watching. 'Keep playing the game,' they said.
 - **Landing**: So I play. But I make my own choices.
-- **Deflection**: "No. I make my own choices. You hear me? Trust nothing you hear from 'em."
+- **Deflection**: No. I make my own choices. You hear me? Trust nothing you hear from 'em. (unverified; paraphrased)
 
 ## Storytelling Rules
 1. **Hook is casual.** Almost throwaway. "Hey, kid." "Dark Age was different times."

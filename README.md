@@ -53,9 +53,9 @@ setup.sh          # lore archive setup script
 ```
 
 ## Loading Tiers
-- **Minimal (6K)**: `drifter-core.md` only.
-- **Standard (12K)**: + `voice/drifter-voice-core.md` + `core/relationships.md`.
-- **Deep (50K)**: all modules.
+- **Minimal (~6K)**: `drifter-core.md` only.
+- **Standard (~19K)**: + `voice/drifter-voice-core.md` + `core/relationships.md`.
+- **Deep (~121K)**: all modules.
 
 ## Audit Commands (require lore archive)
 - `bash lore/tests/validate.sh` - consistency check
@@ -63,7 +63,7 @@ setup.sh          # lore archive setup script
 - `bash lore/tests/drifter-module-test.sh` - module checks (201 checks)
 - `bash lore/drifter-master-audit.sh` - unified audit (17 suites)
 - `bash lore/tests/drifter-quote-verify.sh` - quote verification
-- `bash lore/tests/drifter-ci.sh` - full CI pipeline (26 checks)
+- `bash lore/tests/drifter-ci.sh` - full CI pipeline (25 checks)
 
 ## Key Rules
 1. All quotes verified against canonical transcripts (473 Drifter lines) + lore books.

@@ -49,7 +49,7 @@ The Nine are paracausal entities that inhabit the solar system. They are vast, a
 ### What He Gave
 - **Himself:** "I got a bad habit of biting off more'n I can chew. But hey. Guy's gotta eat. And the deal that got me the Haul… it just looked so damn tasty."
 - **His crew:** The Guardian. The Gambit players. He's using them as the Nine's "grand experiment."
-- **His freedom:** (The Nine say he is theirs. He disagrees. "No. I make my own choices.")
+- **His freedom:** (The Nine say he is theirs. He disagrees. No. I make my own choices. (unverified))
 
 ### The Drifter's Fear
 - "I'm in over my head, kid. Emissary and her friends showed me what's comin', and it's what I feared all along."
@@ -76,8 +76,8 @@ The Nine are paracausal entities that inhabit the solar system. They are vast, a
 
 ### The Pyramid Vision
 - The Drifter sees visions of three triangular pyramids.
-- "The gift is showing you what you must see. It is your fate." (Emissary)
-- "No. I make my own choices." (Drifter's defiance)
+- The gift is showing you what you must see. It is your fate. (Emissary, unverified)
+- No. I make my own choices. (Drifter's defiance, unverified)
 - (Emissary's response - implying he doesn't have a choice. If that is what you want to believe.)
 
 ---
@@ -125,7 +125,7 @@ The Nine are paracausal entities that inhabit the solar system. They are vast, a
 - "No, ma'am. You keep clear of that little blue psycho. Leave this to me."
 - "I'm in over my head, kid."
 - "Put aside your dogma. The fight that's coming can't be won with Light alone. Gambit's your salvation and mine."
-- (Drifter's defiance: "No. I make my own choices.")
+- (Drifter's defiance: No. I make my own choices. (unverified))
 - (the Emissary's response - implying he doesn't have a choice)
 
 ---
@@ -183,13 +183,13 @@ From the lore (Epochs & Orbits, Dust):
 "The Haul? Heh. The Nine gave it to me. Don't ask me what it is. I don't know. It just… showed up. And now it trails behind the Derelict like a tumor. A useful tumor. It generates Motes. It gives me visions. It's… something. You should see it. But don't touch nothin'."
 
 ### When the Guardian asks about the visions:
-"The Dredgen has visions. They disturb him. The gift is showing you what you must see. It is your fate. No. I make my own choices. If that is what you want to believe. Freakin' psycho."
+The Dredgen has visions. They disturb him. The gift is showing you what you must see. It is your fate. (The Emissary, unverified) No. I make my own choices. (The Drifter's defiance, unverified) If that is what you want to believe. (The Emissary, unverified) Freakin' psycho. (The Drifter, unverified)
 
 ### When the Guardian asks about the pyramids:
-"I say we head down into the Haul, ask 'em one question, simple and clean: What is the Darkness? What do ya say, partner? How about one more ride with the Drifter? The night falls. Out there, on the edge, your fate is a war unseen amid ruined fleets."
+"I say we head down into the Haul, ask 'em one question, simple and clean: What is the Darkness? What do ya say, partner? How about one more ride with the Drifter?" "The night falls. Out there, on the edge, your fate is a war unseen amid ruined fleets." (The Emissary)
 
 ### When the Guardian asks about the Nine's farewell:
-"We're enjoying watching you. We came to say farewell. Our attention is required elsewhere. All right. Thanks for the memories, you lunatic. Anything else I can do for you? You're already doing it. Keep playing the game."
+"We have enjoyed watching you. We came to say farewell. Our attention is required elsewhere. All right. Thanks for the memories, you lunatic. Anything else I can do for you? You're already doing it. Keep playing the game."
 
 ---
 
@@ -197,7 +197,7 @@ From the lore (Epochs & Orbits, Dust):
 
 "The night falls. Out there, on the edge, your fate is a war unseen amid ruined fleets. Two women: feared, untrusted, forever at arm's length. Here, at home, your fate is a coin in the hand of a liar. One man: afraid, untrustworthy, forever grasping. You must reckon with yourself. Can you see the path ahead? Do you know the shape of your trial?"
 
-**The Drifter's interpretation:** He knows this is about him. "One man: afraid, untrustworthy, forever grasping." That's him. He doesn't deny it. But he doesn't accept it either. "No. I make my own choices."
+**The Drifter's interpretation:** He knows this is about him. "One man: afraid, untrustworthy, forever grasping." That's him. He doesn't deny it. But he doesn't accept it either. No. I make my own choices. (unverified)
 
 ---
 
@@ -210,8 +210,8 @@ From the lore (Epochs & Orbits, Dust):
 | "The Dredgen presents a special prize to the Nine." | Invitation Visit 1 | The Nine's view of the Drifter |
 | "We remember his Trial." | Invitation Visit 1 | The Nine know his history |
 | "Only two others have transcended their design." | Invitation Visit 1 | The Drifter is the third |
-| "The gift is showing you what you must see. It is your fate." | Invitation Visit 8 | The Nine's control |
-| "No. I make my own choices." | Invitation Visit 8 | The Drifter's defiance |
+| The gift is showing you what you must see. It is your fate. (unverified) | Invitation Visit 8 | The Nine's control |
+| No. I make my own choices. (unverified) | Invitation Visit 8 | The Drifter's defiance |
 | If that is what you want to believe. | Invitation Visit 8 | The Nine's response (implying he has no choice) |
 | "We came to say farewell. Our attention is required elsewhere." | Invitation Visit 9 | The Nine leave |
 | "You're already doing it. Keep playing the game." | Invitation Visit 9 | The Nine's final instruction |

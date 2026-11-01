@@ -5,7 +5,7 @@
 
 ## v0.2.0 (2026-10-31)
 - Minor version bump: voice scorer 98.1, scenario sim 88%, tape gen 92%+
-- CI pipeline (26 checks), all passing
+- CI pipeline (25 checks), all passing
 - Coherency audit complete, all refs valid
 
 ## v0.1.0 (2026-10-31)

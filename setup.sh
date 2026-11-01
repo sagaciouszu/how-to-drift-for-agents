@@ -17,14 +17,14 @@ if [ -L "$WORKSPACE/lore" ]; then
 elif [ -d "$WORKSPACE/lore" ]; then
     echo "lore/ directory already exists (not a symlink). Skipping."
 else
-    # Try to clone if URL is provided
-    if [ -n "$LORE_URL" ]; then
+    # Prefer an explicit local path over cloning
+    if [ -n "$LORE_PATH" ] && [ -d "$LORE_PATH" ]; then
+        ln -s "$LORE_PATH" "$WORKSPACE/lore"
+        echo "Created lore symlink -> $LORE_PATH"
+    elif [ -n "$LORE_URL" ]; then
         echo "Cloning lore archive from $LORE_URL ..."
         git clone "$LORE_URL" "$WORKSPACE/lore"
         echo "Lore archive cloned."
-    elif [ -n "$LORE_PATH" ] && [ -d "$LORE_PATH" ]; then
-        ln -s "$LORE_PATH" "$WORKSPACE/lore"
-        echo "Created lore symlink -> $LORE_PATH"
     else
         echo ""
         echo "The lore archive is required for full functionality."
